@@ -291,7 +291,49 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
       <td style="text-align:left">Boom 3 - ALTA Pro 8</td>
     </tr>
   </tbody>
-</table>
+</table>## Expansion Port Pin-outs
+
+![Expansion Port Layout](../../../.gitbook/assets/alta_pro_expansionport.png)
+
+### UART Port
+
+| Pin | Signal | Voltage \(V\) |
+| :--- | :--- | :--- |
+| 1 | VCC | +5V |
+| 2 | TX \(Out\) | +3.3V |
+| 3 | RX \(In\) | +3.3V |
+| 4 | CTS \(In\) | +3.3V |
+| 5 | RTS \(Out\) | +3.3V |
+| 6 | GND | GND |
+
+### GPS2 Port
+
+| Pin | Signal | Voltage \(V\) |
+| :--- | :--- | :--- |
+| 1 | VCC | +5V |
+| 2 | TX \(Out\) | +3.3V |
+| 3 | RX \(In\) | +3.3V |
+| 4 | I2C1 SCL | +3.3V |
+| 5 | I2C1 SDA | +3.3V |
+| 6 | GND | GND |
+
+### CAN Ports
+
+| Pin | Signal | Voltage \(V\) |
+| :--- | :--- | :--- |
+| 1 | VCC | +5V |
+| 2 | CAN\_H | +5V |
+| 3 | CAN\_L | +5V |
+| 4 | GND | GND |
+
+### I2C Port
+
+| Pin | Signal | Voltage \(V\) |
+| :--- | :--- | :--- |
+| 1 | VCC | +5V |
+| 2 | I2C1 SCL | +3.3V \(1.5K pull-up\) |
+| 3 | I2C1 SDA | +3.3V \(1.5K pull-up\) |
+| 4 | GND | GND |
 
 ## 
 
