@@ -6,7 +6,7 @@ description: FRX Pro Kit Contents and Optional Accessories
 
 ### FRX Pro Kit Contents
 
-![](../../../.gitbook/assets/frxpro_wiki_contents%20%281%29.jpg)
+![](../../../.gitbook/assets/frxpro_wiki_contents.jpg)
 
 | Item | Quantity |
 | :--- | :--- |
