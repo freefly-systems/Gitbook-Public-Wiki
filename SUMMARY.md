@@ -68,6 +68,5 @@
     * [Mounting](products/frx-pro/how-to-use/how-to-mount.md)
     * [Binding and Setup](products/frx-pro/how-to-use/how-to-bind.md)
     * [Updating and Configuration](products/frx-pro/how-to-use/how-to-update.md)
-  * [FAQ](products/frx-pro/faq.md)
   * [Troubleshooting](products/frx-pro/troubleshooting.md)
 
