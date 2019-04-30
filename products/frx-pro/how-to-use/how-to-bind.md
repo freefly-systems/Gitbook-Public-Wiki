@@ -24,6 +24,10 @@ description: How to bind and setup FRX Pro
 * Once the setting has been changed, 'Write' it to the MōVI Controller's memory by selecting the 'Write' field on the next line and pressing the Menu Set knob.
   * To use the old MC-RX with this MōVI Controller, you must set the Radio Type back to 'Internal'
 
+![](../../../.gitbook/assets/note.png)
+
+In order to use FRX Pro with your MōVI Controller you must be using a MōVI Controller that has been updated to v4.1.X or newer. This FW will be available once the first FRX Pros are shipped!
+
 ![](../../../.gitbook/assets/caution.png)
 
 Dual controller \(eg. MōVI Controller + MōVI Controller\) control using FRX Pro is not possible, due to the FRX Pro's large power draw it consumes the power from both COM ports on the GCU. Please use the MōVI Controller Receivers when attempting dual controller control.

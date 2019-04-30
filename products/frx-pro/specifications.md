@@ -20,7 +20,7 @@
 | Signal Power | 10mW - 1W \(User adjustable\) |
 | Frequency | 902 - 928MHz \* |
 | Spread Method | Frequency Hopping |
-| Range | 5600ft \(Based on testing\) \*\* |
+| Range | 1700m \[5600ft\] \(Based on testing\) \*\* |
 | Antenna Connector | RP-SMA |
 | Operational Temperature Range | -20 to 50C |
 
