@@ -48,7 +48,7 @@ FRX Pro's power and baud rate can be adjusted when necessary, for instruction re
 * Open the configurator bundled with the FRX Pro FW and connect to the correct COM port using the drop down menu at the top of the configurator.
 * With the COM port selected, press the Start Configuration Mode button. 
 * The Power Level and Aux Baud Rate can now be adjusted and written to the FRX Pro module using the Write Configuration button.
-  * Always use an Aux baud Rate of '11111' when using FRX Pro with the MōVI family of gimbals.
+  * Always use an Aux baud Rate of '111111' when using FRX Pro with the MōVI family of gimbals.
   * To reset the FRX Pro module to defaults select the Default Configuration button in the configurator.
 
 ![Be sure to know and adhere to the radio frequency legislation in the region where FRX Pro is being used.](../../../.gitbook/assets/caution.png)
