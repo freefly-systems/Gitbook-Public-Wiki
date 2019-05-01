@@ -51,11 +51,11 @@ description: FRX Pro Kit Contents and Optional Accessories
     </tr>
     <tr>
       <td style="text-align:left">5dBi Spare Antenna Set*</td>
-      <td style="text-align:left">Replace the 5dBi antenna&apos;s provided in the FRX Pro Kit</td>
+      <td style="text-align:left">Replace the 5dBi antennas provided in the FRX Pro Kit</td>
     </tr>
     <tr>
       <td style="text-align:left">2dBi Spare Antenna Set*</td>
-      <td style="text-align:left">Replace the 2dBi antenna&apos;s provided in the FRX Pro Kit</td>
+      <td style="text-align:left">Replace the 2dBi antennas provided in the FRX Pro Kit</td>
     </tr>
   </tbody>
 </table>\*Note: These items are not yet available in the Freefly store but will be added soon.
