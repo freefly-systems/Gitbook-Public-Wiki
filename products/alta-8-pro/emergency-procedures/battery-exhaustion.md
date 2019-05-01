@@ -10,25 +10,11 @@
 
 **If battery cell voltage is below Land Voltage while flying in Manual Mode**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">1.</th>
-      <th style="text-align:left">Status Light</th>
-      <th style="text-align:left">FLASH RED</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">2.</td>
-      <td style="text-align:left">ALTA Pro</td>
-      <td style="text-align:left">
-        <p>LAND as soon as possible</p>
-        <p>(Autoland is not initiated)</p>
-      </td>
-    </tr>
-  </tbody>
-</table>**If battery cell voltage is below Land Voltage while flying in Altitude or Position Mode**
+| 1. | Status Light | FLASH RED |
+| :--- | :--- | :--- |
+| 2. | ALTA Pro | LAND as soon as possible \(Autoland is not initiated\) |
+
+**If battery cell voltage is below Land Voltage while flying in Altitude or Position Mode**
 
 | 1. | Status Light | ILLUMINATES RED \(solid or blinking\) |
 | :--- | :--- | :--- |
