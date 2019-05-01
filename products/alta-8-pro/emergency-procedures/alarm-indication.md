@@ -2,11 +2,11 @@
 
 **Alarm Indication \(Flashing or Solid Red Light\)**
 
-|  | Item | **Action** |
+|  | Item | Action |
 | :--- | :--- | :--- |
 | 1. | Mode Switch | MANUAL |
-| **2.** | **ALTA Pro** | **LAND as soon as possible** |
-| **3.** | **ALTA Pro QGroundControl** | **CHECK IN APP WARNINGS** |
+| 2. | ALTA Pro | LAND as soon as possible |
+| 3. | ALTA Pro QGroundControl | CHECK IN APP WARNINGS |
 
 Alarms are displayed if the flight controller determines there is a condition present that can adversely affect the safety of the flight. Alarms are indicated by the Status Light staying or flashing Red \(depending on the flight mode\).
 
