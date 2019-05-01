@@ -30,5 +30,5 @@ In order to use FRX Pro with your MōVI Controller you must be using a MōVI Con
 
 ![](../../../.gitbook/assets/caution.png)
 
-Dual controller \(eg. MōVI Controller + MōVI Controller\) control using FRX Pro is not possible, due to the FRX Pro's large power draw it consumes the power from both COM ports on the GCU. Please use the MōVI Controller Receivers when attempting dual controller control.
+Running dual MōVI Controllers using FRX Pro is not possible, due to the FRX Pro's large power draw it consumes the power from both COM ports on the GCU. Please use the MōVI Controller Receivers when attempting to use two MōVI Controllers.
 
