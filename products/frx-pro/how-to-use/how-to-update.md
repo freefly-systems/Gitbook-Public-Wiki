@@ -10,7 +10,7 @@ description: How to update FRX Pro
 
 | Item  |
 | :--- |
-| 1.COM Port Dropdown Menu |
+| 1. COM Port Dropdown Menu |
 | 2. Connect/Disconnect Button |
 | 3. Start Configuration Mode Button |
 | 4. Default Configuration Button |
