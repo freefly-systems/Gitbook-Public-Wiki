@@ -21,113 +21,78 @@ The rear-facing Status Light shows the status of ALTA Pro as it boots, arms, and
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Booting</b>
-      </td>
-      <td style="text-align:left"><b>Flashing Red + White</b>
-      </td>
-      <td style="text-align:left"><b>Flight controller is booting</b>
-      </td>
+      <td style="text-align:left">Booting</td>
+      <td style="text-align:left">Flashing Red + White</td>
+      <td style="text-align:left">Flight controller is booting</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Standby</b>
-      </td>
-      <td style="text-align:left"><b>Flashing White</b>
-      </td>
-      <td style="text-align:left"><b>Flight controller is running and disarmed</b>
-      </td>
+      <td style="text-align:left">Standby</td>
+      <td style="text-align:left">Flashing White</td>
+      <td style="text-align:left">Flight controller is running and disarmed</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Flashing Red</b>
-      </td>
-      <td style="text-align:left"><b>Flight controller is running and not ready to arm</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Flashing Red</td>
+      <td style="text-align:left">Flight controller is running and not ready to arm</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Solid Red</b>
-      </td>
-      <td style="text-align:left"><b>Flight controller boot unsuccessful</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Solid Red</td>
+      <td style="text-align:left">Flight controller boot unsuccessful</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Armed</b>
-      </td>
-      <td style="text-align:left"><b>Off</b>
-      </td>
-      <td style="text-align:left"><b>Ready for Flight</b>
-      </td>
+      <td style="text-align:left">Armed</td>
+      <td style="text-align:left">Off</td>
+      <td style="text-align:left">Ready for Flight</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Flight - all modes</b>
-      </td>
-      <td style="text-align:left"><b>Solid Red</b>
-      </td>
-      <td style="text-align:left"><b>Flight critical alarm&#x2014;land immediately!</b>
-      </td>
+      <td style="text-align:left">Flight - all modes</td>
+      <td style="text-align:left">Solid Red</td>
+      <td style="text-align:left">Flight critical alarm&#x2014;land immediately!</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Flight - Manual Mode</b>
-      </td>
-      <td style="text-align:left"><b>Off</b>
-      </td>
+      <td style="text-align:left">Flight - Manual Mode</td>
+      <td style="text-align:left">Off</td>
       <td style="text-align:left">
-        <p><b>Nominal flight status</b>
-        </p>
-        <p><b>No errors</b>
-        </p>
+        <p>Nominal flight status</p>
+        <p>No errors</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Solid White</b>
-      </td>
-      <td style="text-align:left"><b>Outside user-defined range, height, or speed limits</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Solid White</td>
+      <td style="text-align:left">Outside user-defined range, height, or speed limits</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Solid Red</b>
-      </td>
-      <td style="text-align:left"><b>Flight critical alarm or battery alarm voltage&#x2014;land immediately!</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Solid Red</td>
+      <td style="text-align:left">Flight critical alarm or battery alarm voltage&#x2014;land immediately!</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Flashing Red</b>
-      </td>
-      <td style="text-align:left"><b>Battery land voltage&#x2014;land immediately!</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Flashing Red</td>
+      <td style="text-align:left">Battery land voltage&#x2014;land immediately!</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Flight - Height Hold</b>
-      </td>
-      <td style="text-align:left"><b>Off</b>
-      </td>
+      <td style="text-align:left">Flight - Height Hold</td>
+      <td style="text-align:left">Off</td>
       <td style="text-align:left">
-        <p><b>Nominal flight status</b>
-        </p>
-        <p><b>Height hold inactive</b>
-        </p>
+        <p>Nominal flight status</p>
+        <p>Height hold inactive</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Slow Flashing White</b>
-      </td>
-      <td style="text-align:left"><b>Height hold active</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Slow Flashing White</td>
+      <td style="text-align:left">Height hold active</td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
-      <td style="text-align:left"><b>Solid or Flashing Red</b>
-      </td>
-      <td style="text-align:left"><b>Flight critical alarm&#x2014;land immediately!</b>
-      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Solid or Flashing Red</td>
+      <td style="text-align:left">Flight critical alarm&#x2014;land immediately!</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Flight - Position Hold</b>
-      </td>
+      <td style="text-align:left">Flight - Position Hold</td>
       <td style="text-align:left">Off</td>
       <td style="text-align:left">
         <p>Nominal flight status</p>

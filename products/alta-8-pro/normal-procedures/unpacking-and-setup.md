@@ -2,10 +2,10 @@
 
 ## **Unpacking and Setup**
 
-| **1.** | Item | Action |
+|  | Item | Action |
 | :--- | :--- | :--- |
 | 1. | Aircraft | REMOVE from case |
-| **2.** | Prop protectors | REMOVE |
+| 2. | Prop protectors | REMOVE |
 | 3. | Boom retention clips | STOW |
 | 4. | Booms | UNFOLD |
 | 5. | Boom latches | LOCK |
