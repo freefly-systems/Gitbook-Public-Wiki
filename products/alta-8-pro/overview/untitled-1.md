@@ -97,8 +97,6 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 
 ## Powerplant
 
-
-
 | Item | Specification |
 | :--- | :--- |
 | Number of Motors | 8 - ALTA Pro 8 |
@@ -119,7 +117,7 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 | Propeller Orientation | \(4\) CW and \(4\) CCW Props - ALTA Pro 8 |
 | Propeller Type | 18 × 6 Folding |
 
-## **Battery**
+## Battery
 
 | Item | **Spec** |
 | :--- | :--- |
@@ -223,9 +221,7 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
       <td style="text-align:left">25Hz</td>
     </tr>
   </tbody>
-</table>
-
-## **Lighting and Indication**
+</table>## **Lighting and Indication**
 
 | Item | Spec |
 | :--- | :--- |
@@ -233,8 +229,6 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 | Orientation Lights | 3-Watt RGB LED |
 | Orientation Light Color Options | Off, Red, Orange, Yellow, Green, Blue, Cyan, Purple, White |
 | FPV Ability | FPV SD with OSD overlay |
-
-
 
 ## **Isolation Systems**
 
@@ -244,8 +238,6 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 | Option 1: Soft / Light Payloads | Red O-Rings |
 | Option 2: Medium / Medium Payloads | Teal O-Rings |
 | Option 3: Stiff / Heavy Payloads | Black O-Rings |
-
-
 
 ## **External Systems Mounting**
 
@@ -334,6 +326,4 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 | 2 | I2C1 SCL | +3.3V \(1.5K pull-up\) |
 | 3 | I2C1 SDA | +3.3V \(1.5K pull-up\) |
 | 4 | GND | GND |
-
-## 
 

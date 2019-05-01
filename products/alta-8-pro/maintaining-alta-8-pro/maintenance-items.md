@@ -79,6 +79,6 @@ Check hinge latching tightness by closing the hinge. There should be a firm clos
 
 ### **Replacement Of Parts**
 
-Spare or replacement parts are available for sale separately at [www.freeflysystems.com](http://www.freeflysystems.com). Please refer to the store for a current listing of all available spare parts.  
+Spare or replacement parts are available for sale separately at [freeflysystems.com](https://freeflysystems.com). Please refer to the store for a current listing of all available spare parts.  
 
 

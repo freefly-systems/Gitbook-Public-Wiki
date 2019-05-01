@@ -123,9 +123,5 @@ description: Definitions for common terminology
 | :--- | :--- |
 | LOS | Loss of Signal |
 | RTH | Return-to-Land |
-| sUAS | Small Unmanned Aircraft System includes all components of the system required for the flight of an unmanned aircraft, including the radio controller, data link and other related support equipment  |
-
-##  
-
-
+| sUAS | Small Unmanned Aircraft System includes all components of the system required for the flight of an unmanned aircraft, including the radio controller, data link and other related support equipment |
 

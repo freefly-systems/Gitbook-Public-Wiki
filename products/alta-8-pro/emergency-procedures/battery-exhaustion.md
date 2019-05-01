@@ -4,43 +4,36 @@
 
 **If battery cell voltage is below Alarm Voltage \(all flight modes\)**
 
-| **1.** | **Status Light** | **ILLUMINATES RED \(solid or blinking\)** |
+| 1. | Status Light | ILLUMINATES RED \(solid or blinking\) |
 | :--- | :--- | :--- |
-| **2.** | **ALTA Pro** | **LAND as soon as possible** |
+| 2. | ALTA Pro | LAND as soon as possible |
 
 **If battery cell voltage is below Land Voltage while flying in Manual Mode**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>1.</b>
-      </th>
-      <th style="text-align:left"><b>Status Light</b>
-      </th>
-      <th style="text-align:left"><b>FLASH RED</b>
-      </th>
+      <th style="text-align:left">1.</th>
+      <th style="text-align:left">Status Light</th>
+      <th style="text-align:left">FLASH RED</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>2.</b>
-      </td>
-      <td style="text-align:left"><b>ALTA Pro</b>
-      </td>
+      <td style="text-align:left">2.</td>
+      <td style="text-align:left">ALTA Pro</td>
       <td style="text-align:left">
-        <p><b>LAND as soon as possible</b>
-        </p>
-        <p><b>(Autoland is not initiated)</b>
-        </p>
+        <p>LAND as soon as possible</p>
+        <p>(Autoland is not initiated)</p>
       </td>
     </tr>
   </tbody>
 </table>**If battery cell voltage is below Land Voltage while flying in Altitude or Position Mode**
 
-| **1.** | **Status Light** | **ILLUMINATES RED \(solid or blinking\)** |
+| 1. | Status Light | ILLUMINATES RED \(solid or blinking\) |
 | :--- | :--- | :--- |
-| **2.** | **ALTA Pro** | **WARNING popup in ALTA Pro QGroundControl** |
-| **3.** | **Pitch and Roll** | **MANEUVER away from people or objects** |
+| 2. | ALTA Pro | WARNING popup in ALTA Pro QGroundControl |
+| 3. | Pitch and Roll | MANEUVER away from people or objects |
 
 If the battery cell voltage drops below the Alarm Voltage, the Status Light will turn solid red in Manual Mode or flash red if in Altitude Hold or Position Hold. Terminate the flight and land as soon as possible.
 

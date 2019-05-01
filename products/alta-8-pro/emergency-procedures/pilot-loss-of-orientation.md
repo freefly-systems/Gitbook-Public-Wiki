@@ -2,12 +2,12 @@
 
 
 
-|  | **Item** | **ACTION** |
+|  | **Item** | **Action** |
 | :--- | :--- | :--- |
 | 1. | Control Inputs | NEUTRALIZE |
-| **2.** | **Mode Switch** | **POSITION** |
-| **3.** | **Yaw** | **NOSE AWAY** |
-| **4.** | **Roll** | **VERIFY DIRECTION** |
+| 2. | Mode Switch | POSITION |
+| 3. | Yaw | NOSE AWAY |
+| 4. | Roll | VERIFY DIRECTION |
 
 Regaining spatial orientation as quickly as possible is most important. If the pilot loses orientation of ALTA Pro, control inputs will not give the expected result, so neutralize controls by centering the throttle/yaw and pitch/roll sticks to stabilize motion. If a good GPS signal is available, enable Position Mode so ALTA Pro will stay in one place.
 

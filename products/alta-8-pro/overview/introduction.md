@@ -4,11 +4,7 @@ description: Overview of ALTA 8 Pro
 
 # Introduction
 
-
-
 ![](https://lh4.googleusercontent.com/LKJnBPmLHprdQGH73LLNkxK9YhfaFWJEMFzL3XBG9imU5X-QHc2PT2H19YMQP4rdqjPKbEob_diN7cTMpvHzZE4rwq26Uugg743b0jypWkPb2G9yuo9x4p87MJudlnakPtHZCwq1)
-
-
 
 ALTA Pro is a professional multi-rotor aircraft designed for demanding cinematic, professional, and industrial, applications. In under five minutes, ALTA Pro can unfold from its carrying case to flying some of the most capable cinema cameras and industrial payloads on either the top or bottom of the aircraft. ALTA Pro runs the PX4 stack and has been customized for both cinema and commercial use, yielding precise yet smooth control. 
 

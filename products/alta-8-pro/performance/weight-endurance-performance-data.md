@@ -4,7 +4,7 @@
 
 **Conditions:**
 
-| Item | **Condition** |
+| Item | Condition |
 | :--- | :--- |
 | Altitude | Sea Level, ISA |
 | Winds | Zero |
