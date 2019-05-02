@@ -37,7 +37,7 @@ FRX Pro's ship with the latest stable FW preloaded onto each module so no updati
   * If FW load fails make sure you are in the FW Update Mode.
 * FRX Pro modules are updated individually; this means each module must be updated when a FW update is released.
 
-![MoVI Controller FW must be v4.0.1 or later to work with FRX Pro. ](../../../.gitbook/assets/note.png)
+![MoVI Controller FW must be v4.1.0 or later to work with FRX Pro. ](../../../.gitbook/assets/note.png)
 
 ### Configuring FRX Pro
 
