@@ -1,4 +1,4 @@
-# Saving, Loading, and Resetting Paramters
+# Saving, Loading, and Resetting Parameters
 
 ## **Saving, Loading, and Resetting Parameters**
 
