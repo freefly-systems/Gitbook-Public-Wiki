@@ -24,7 +24,5 @@ There are many ways to use 360 °Roll and its features, depending on your crew s
 
 ## Method: Barrel Roll
 
-![](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/989/12/304949680/1169923992.mp4?token=1556862675-0x91b5af12e6dc4f30ea5ef885cb728f6e9bd8642a)
-
 
 
