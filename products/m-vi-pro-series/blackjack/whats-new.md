@@ -2,7 +2,7 @@
 
 ## 360° Roll
 
-{% embed url="https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/989/12/304949322/1169906904.mp4?token=1557981175-0xcf7f2d81632572da39b84963d4632f105622590d" %}
+#### [Play Video](https://player.vimeo.com/external/304949322.hd.mp4?s=b111900c6e6047b3323c6389fb32cca02bb35269&profile_id=175)
 
 #### What is it?
 
@@ -28,7 +28,7 @@ Make sure you understand the ​theory​ andpractice​ behind roll modes befor
 
 ## Majestic Methods
 
-{% embed url="https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952370/1169981599.mp4?token=1557980654-0xf7f1cb671ac9fb5fc3453d97721f820b0e77d69c" %}
+#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952370/1169981599.mp4?token=1558607812-0xe9fca9ae538c331f61b89d859f541ef97993c04d)
 
 #### What is it?
 
@@ -47,7 +47,7 @@ MōVI now includes a Majestic screen that lets you quickly switch between diffe
 
 ## Maniac Mode 
 
-{% embed url="https://gcs-vimeo.akamaized.net/exp=1557981414~acl=%2A%2F1169182097.mp4%2A~hmac=80c1744af4bc54e87d3f14b4cd86f4e13562fc603faf636a06aed9495c570aa2/vimeo-prod-skyfire-std-us/01/988/12/304943705/1169182097.mp4" %}
+#### [Play Video](https://gcs-vimeo.akamaized.net/exp=1558607841~acl=%2A%2F1169182097.mp4%2A~hmac=54a4cd51a0801a39294e73b01b53fbc26c1dce6462fbcbcc68dd590d25eb0826/vimeo-prod-skyfire-std-us/01/988/12/304943705/1169182097.mp4)
 
 #### What is it?
 
@@ -72,6 +72,8 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 ## Autotune v3
 
+#### \*\*\*\*[**Play Video**](https://gcs-vimeo.akamaized.net/exp=1558607860~acl=%2A%2F1169693962.mp4%2A~hmac=25218033d1b515cae372f8f4de3552429b3543b0ffbe324dc00c8b3f5f66908c/vimeo-prod-skyfire-std-us/01/990/12/304952005/1169693962.mp4)\*\*\*\*
+
 #### What is it?
 
 * Autotune is now even smarter and more \#prolevel! It models your payload in new ways to deliver the best software performance that is also tightly integrated with hardware.
@@ -89,6 +91,10 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 ## Live Boot
 
+#### [Play Video](https://gcs-vimeo.akamaized.net/exp=1558607877~acl=%2A%2F1169199142.mp4%2A~hmac=14c397a19c91c930353c4640a49daa53bfc41fa18ccca22a9146804428e00186/vimeo-prod-skyfire-std-us/01/989/12/304947315/1169199142.mp4)
+
+#### What is it?
+
 * MōVI had the fastest boot time in the market with ~2 seconds.
 
   Now it’s even more robust.
@@ -97,14 +103,28 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 ## Dynamic Fixed Mount
 
+#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952016/1169455957.mp4?token=1558607937-0xf3add2f534bf24c216474d64bc79a4cd879daf96)
+
+#### What is it?
+
 * Drift is annoying. MōVI now features a dynamic fixed mount mode where the MōVI detects when it is stable and mitigates drift, using its high resolution encoders.
-* **\#protip​** - MōVI Pro v2.0 knows when it is sitting still and uses this information to combat drift. Corrections are made exponentially when MōVI is stationary. It takes about 15 seconds to get 50% correction and about minute for 90% correction.
-* **\#protip​** - If you are diagnosing a drift issue, make sure to turn off all controllers to determine if the source is MōVI or one of the controllers.
+
+#### \#protip
+
+* MōVI Pro v2.0 knows when it is sitting still and uses this information to combat drift. Corrections are made exponentially when MōVI is stationary. It takes about 15 seconds to get 50% correction and about minute for 90% correction.
+* If you are diagnosing a drift issue, make sure to turn off all controllers to determine if the source is MōVI or one of the controllers.
 
 ## Dynamic Drift Control 
 
+#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952010/1169458791.mp4?token=1558607976-0xb9480557bc915ef1a56cad78a84e6d0afd9e5d66)
+
+#### What is it?
+
 * MōVI Pro 2.0 has learned to ignore the bad data from the accelerometer to help keep your shots level and stable, even in high accelerations without compass or gps assist modes.
-* **\#protip**​ - There are a lot of behind-the-scenes software features that make MōVI more robust. We’re not relying on Heading Assist setting anymore and recommend keeping it off until you have a specific reason to use it. Additionally, the GPS option has been removed because GPS is now incorporated automatically.
+
+#### \#protip
+
+* There are a lot of behind-the-scenes software features that make MōVI more robust. We’re not relying on Heading Assist setting anymore and recommend keeping it off until you have a specific reason to use it. Additionally, the GPS option has been removed because GPS is now incorporated automatically.
 
 ## Improvements
 
@@ -112,6 +132,7 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 * **Zoom Rate Scaling:** ​Enable zoom rate scaling and the MōVI will automatically slow down pan / tilt rate as you zoom in. Super helpful for catching Dave’s dance moves from afar. 
   * [Video](https://youtu.be/Yh_HNvlUvv0)
 * **Auto FIZ Cal on Boot**: ​MōVI can now automatically calibrate focus / iris / and zoom on powerup. Turn it on in MōVI Pro App &gt; Configurations &gt; Dual Op &gt; Adjustments
+  * [Video](https://player.vimeo.com/video/304952003)
 * **The​ MōVI Wheels​** now automatically sets pan/tilt joystick settings to zeros for most responsive feel.
 * **Bugfixes**
   * Timelapse​ ​is now more robust!
