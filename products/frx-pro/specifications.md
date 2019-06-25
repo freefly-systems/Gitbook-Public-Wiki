@@ -16,7 +16,8 @@
 | Item | Specification |
 | :--- | :--- |
 | Weight |  62.2g |
-| Voltage | 5 V |
+| Input Voltage | 5 V - 30V |
+| Input Power | &gt;10W |
 | Signal Power | 10mW - 1W \(User adjustable\) |
 | Frequency | 902 - 928MHz \* |
 | Spread Method | Frequency Hopping |

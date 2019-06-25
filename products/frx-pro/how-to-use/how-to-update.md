@@ -6,17 +6,19 @@ description: How to update FRX Pro
 
 ### Configurator
 
-![](../../../.gitbook/assets/frxpro_wiki_wiringcontrollerside-copy.jpg)
+[Latest FW + Configurator](https://freeflysystems.com/support/frx-pro)
+
+![](../../../.gitbook/assets/frx-manual-bom.ai_-100-rgb_gpu-preview-2019-06-20-13.16.51%20%281%29.png)
 
 | Item  |
 | :--- |
-| 1. COM Port Dropdown Menu |
-| 2. Connect/Disconnect Button |
-| 3. Start Configuration Mode Button |
-| 4. Default Configuration Button |
-| 5. Write Configuration Button |
-| 6. Power Level Setting |
-| 7. Aux Baud Rate Setting |
+| 1. COM Port Drop down Menu |
+| 2. Read Configuration Button |
+| 3. Default Configuration Button |
+| 4. Write Configuration Button |
+| 5. Power Level Setting |
+| 6. Aux Baud Rate Setting |
+| 7. FRX FW Version  |
 | 8. FW File Selection Button |
 | 9. FW Load Button |
 
@@ -30,7 +32,7 @@ FRX Pro's ship with the latest stable FW preloaded onto each module so no updati
 * Connect the USB A-C cable to your computer then plug in the FRX Pro module while holding down its Bind button.
   * The status light will turn blue indicating it is in FW Update Mode.
 * Open the configurator bundled with the FRX Pro FW and connect to the correct COM port using the drop down menu at the top of the configurator.
-  * When connected the rest of the configurator will become editable and the box at the top right of the configurator will turn green.
+  * If you are using a Mac select the port named 'tty.ubsbmodemXXXXXX'.
 * With the correct COM port selected, choose the new firmware file using the Browse button. 
   * The name of the file will be FRX\_Pro\_x-x-x\_xxxxxxxx.enc.
 * Click the Load button to begin the FW load process. After a few seconds, the new firmware file will be sent to the FRX Pro module. Wait for the progress to reach 100%.

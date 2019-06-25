@@ -18,7 +18,7 @@ description: Visual Overview of FRX Pro
 
 ### Setup Overview
 
-![](../../../.gitbook/assets/frxpro_wiki_setupoverview.jpg)
+![](../../../.gitbook/assets/frx-manual-bom.ai_-100-rgb_gpu-preview-2019-06-20-12.16.08.png)
 
 ### Status Light Overview
 
@@ -26,5 +26,5 @@ description: Visual Overview of FRX Pro
 
 ### Connectors and Pinouts
 
-![](../../../.gitbook/assets/frxpro_wiki_connectorspinouts%20%282%29.jpg)
+![](../../../.gitbook/assets/frx_pro_interfaces.jpg)
 
