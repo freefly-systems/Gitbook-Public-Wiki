@@ -2,8 +2,6 @@
 
 ## 360° Roll
 
-#### [Play Video](https://player.vimeo.com/external/304949322.hd.mp4?s=b111900c6e6047b3323c6389fb32cca02bb35269&profile_id=175)
-
 #### What is it?
 
 MōVI can now roll 360°+ degrees. We built in a suite of advanced roll modes so you can \#justkeeprolling.
@@ -28,8 +26,6 @@ Make sure you understand the ​theory​ andpractice​ behind roll modes befor
 
 ## Majestic Methods
 
-#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952370/1169981599.mp4?token=1558607812-0xe9fca9ae538c331f61b89d859f541ef97993c04d)
-
 #### What is it?
 
 Choose from predefined shooting methods in a single click or create your own custom profiles. Go from whip to slow in seconds—without opening the app.
@@ -46,8 +42,6 @@ MōVI now includes a Majestic screen that lets you quickly switch between diffe
 * You can set your “user” preset by toggling to “user” in the MōVI screen and then modifying values in the MōVI Pro App. It will automatically remember those settings, no saving required.
 
 ## Maniac Mode 
-
-#### [Play Video](https://gcs-vimeo.akamaized.net/exp=1558607841~acl=%2A%2F1169182097.mp4%2A~hmac=54a4cd51a0801a39294e73b01b53fbc26c1dce6462fbcbcc68dd590d25eb0826/vimeo-prod-skyfire-std-us/01/988/12/304943705/1169182097.mp4)
 
 #### What is it?
 
@@ -72,8 +66,6 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 ## Autotune v3
 
-#### \*\*\*\*[**Play Video**](https://gcs-vimeo.akamaized.net/exp=1558607860~acl=%2A%2F1169693962.mp4%2A~hmac=25218033d1b515cae372f8f4de3552429b3543b0ffbe324dc00c8b3f5f66908c/vimeo-prod-skyfire-std-us/01/990/12/304952005/1169693962.mp4)\*\*\*\*
-
 #### What is it?
 
 * Autotune is now even smarter and more \#prolevel! It models your payload in new ways to deliver the best software performance that is also tightly integrated with hardware.
@@ -91,8 +83,6 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 ## Live Boot
 
-#### [Play Video](https://gcs-vimeo.akamaized.net/exp=1558607877~acl=%2A%2F1169199142.mp4%2A~hmac=14c397a19c91c930353c4640a49daa53bfc41fa18ccca22a9146804428e00186/vimeo-prod-skyfire-std-us/01/989/12/304947315/1169199142.mp4)
-
 #### What is it?
 
 * MōVI had the fastest boot time in the market with ~2 seconds.
@@ -102,8 +92,6 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 * Shaky shaky - We got rid of the motion booting setting. Now it’s called Live Boot and you don’t even have to think about it. MōVI will turn on instantly if you are running, jumping on a boat or barrel rolling on a plane.
 
 ## Dynamic Fixed Mount
-
-#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952016/1169455957.mp4?token=1558607937-0xf3add2f534bf24c216474d64bc79a4cd879daf96)
 
 #### What is it?
 
@@ -115,8 +103,6 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 * If you are diagnosing a drift issue, make sure to turn off all controllers to determine if the source is MōVI or one of the controllers.
 
 ## Dynamic Drift Control 
-
-#### [Play Video](https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/990/12/304952010/1169458791.mp4?token=1558607976-0xb9480557bc915ef1a56cad78a84e6d0afd9e5d66)
 
 #### What is it?
 
@@ -130,9 +116,7 @@ Make sure to test your setup under load before going out on a serious shoot. Dif
 
 * **Impact Recovery:​** MōVI will automatically reset if it detects it was disturbed. Previously this would have affected an axis, such as roll, to be off for few minutes or require reboot.
 * **Zoom Rate Scaling:** ​Enable zoom rate scaling and the MōVI will automatically slow down pan / tilt rate as you zoom in. Super helpful for catching Dave’s dance moves from afar. 
-  * [Video](https://youtu.be/Yh_HNvlUvv0)
 * **Auto FIZ Cal on Boot**: ​MōVI can now automatically calibrate focus / iris / and zoom on powerup. Turn it on in MōVI Pro App &gt; Configurations &gt; Dual Op &gt; Adjustments
-  * [Video](https://player.vimeo.com/video/304952003)
 * **The​ MōVI Wheels​** now automatically sets pan/tilt joystick settings to zeros for most responsive feel.
 * **Bugfixes**
   * Timelapse​ ​is now more robust!
