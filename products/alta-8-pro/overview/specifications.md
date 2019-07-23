@@ -229,6 +229,13 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
 | Orientation Lights | 3-Watt RGB LED |
 | Orientation Light Color Options | Off, Red, Orange, Yellow, Green, Blue, Cyan, Purple, White |
 | FPV Ability | FPV SD with OSD overlay |
+|  |  |
+| GPS Light Color Scheme  | Solid Blue - Armed Without GPS Lock |
+|  | Solid Green - Armed With GPS Lock |
+|  | Breathing \(Any Color\) - Waiting/Standby |
+|  | Blue \(Solid or Breathing\) - No GPS Lock |
+|  | Green \(Solid or Breathing\) - GPS Lock |
+|  | Fast Blinking Red - Arming Error |
 
 ## **Isolation Systems**
 
