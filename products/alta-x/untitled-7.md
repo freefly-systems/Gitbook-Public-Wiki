@@ -381,12 +381,12 @@ The GPS module includes multi-color LED status lights that provide extra indicat
       <th style="text-align:left"></th>
       <th style="text-align:left">
         <p></p>
-        <p></p>
+        <p>
+          <img src="https://lh6.googleusercontent.com/wjIyerzdMdqFdqFXRqUP74ntScC2wTMUgWTNGNP9p4mSr4kA1X0TBPVtmv1PKvv_BsqxZPJXdeXdJA_cpBAS2B11PnskbmdXZiN4AUr_7LhxKRSz8OKZzLgw2NpmJ19M9KDeC5y0"
+          alt/>
+        </p>
       </th>
-      <th style="text-align:left">
-        <img src="https://lh6.googleusercontent.com/wjIyerzdMdqFdqFXRqUP74ntScC2wTMUgWTNGNP9p4mSr4kA1X0TBPVtmv1PKvv_BsqxZPJXdeXdJA_cpBAS2B11PnskbmdXZiN4AUr_7LhxKRSz8OKZzLgw2NpmJ19M9KDeC5y0"
-        alt/>
-      </th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
