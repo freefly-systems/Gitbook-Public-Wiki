@@ -113,7 +113,7 @@
 | Flight Modes | Manual, Altitude, Position, Mission, Loiter, Orbit, Return |
 | Supported Inputs | MAVlink SDK |
 | Supported Radios | Futaba, Spektrum, PX4 compatible SBUS and PPM receivers |
-| Supported Radio Controller Telemetry Systems | Voltage feed provided for futaba RX telemetry |
+| Supported Radio Controller Telemetry Systems | Voltage feed provided for Futaba RX telemetry |
 | Minimum Radio Controller Channels Required | 5 \(roll, pitch, yaw, throttle, mode\) |
 | Supported GNSS | GPS/Glonass/Beidou/Galileo |
 
@@ -144,11 +144,11 @@
 
 ## Performance Charts
 
-#### Flight Time v. Payload
+### Flight Time v. Payload
 
 ![](https://lh3.googleusercontent.com/WBztCTmAsgDK4HR1Ao7r3nvKdrD5B4wLEAKPVQMLUJ9spR9fa-cF1KbD9PjU1SvEp83Ws7bhesKLrEiGayghU6c1MLR8bJypQmKuOxamOoQDCSk3gYFnBZC0e2bBkawdvhBt4-rp)
 
-#### Maximum Gross Weight
+### Maximum Gross Weight
 
 To determine maximum gross weight, determine flight location pressure altitude and temperature, and refer to the weight in the chart below. Gross Weight includes payload, battery and structure weight.
 
@@ -166,7 +166,7 @@ Cells highlighted in yellow indicate where the weight is limited by the maximum 
 
 ## Expansion Ports
 
-### Eternal Com Expansion
+### External Com Expansion
 
 The external communications expansion port is located between booms 1 and 2 on the ALTA.
 
@@ -242,7 +242,7 @@ Peripheral CANbus for future expansion.
 | 4 | GND | GND |
 
 {% hint style="warning" %}
-WARNING: Long Range RF CAN is 12V VCC, do not use!\) 
+WARNING: Long Range RF CAN is 12V VCC, do not use!
 {% endhint %}
 
 #### I2C Ports _- GH-4 Pin_
