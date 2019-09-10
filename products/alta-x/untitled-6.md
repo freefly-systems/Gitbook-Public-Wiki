@@ -56,7 +56,7 @@
   </tbody>
 </table>To set up ALTA X for flight, remove it from the case, and remove the prop straps. 
 
-Unfold the booms by placing one hand on a boom and one hand on the airframe and then unfolding the boom.  The boom linkage system will unfold all booms at once.  Once unfolded be sure to latch each side of the locking ring.  These latches are redundant and ensure that the booms stay in the open flight position during flight. 
+Unfold the booms by placing one hand on a boom and one hand on the airframe and then unfolding the boom.  The boom linkage system will unfold all booms at once.  Once unfolded, be sure to latch each side of the locking ring.  These latches are redundant and ensure that the booms stay in the open flight position during flight. 
 
 Check that the receivers and the electrical connectors that attach to the receivers are secure.
 
@@ -149,7 +149,7 @@ For information on installing isolator cartridges and setting up payload mountin
     <tr>
       <td style="text-align:left">15.</td>
       <td style="text-align:left">Orientation Lights</td>
-      <td style="text-align:left">VERIFY FLASHING GREEN</td>
+      <td style="text-align:left">VERIFY SOLID COLORED, DIM</td>
     </tr>
     <tr>
       <td style="text-align:left">16.</td>
