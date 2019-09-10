@@ -151,7 +151,7 @@ If the aircraft tips over with the props running, ALWAYS power cycle the aircraf
 
 ### Creation/Modification/Execution
 
-Missions can be created, loaded, saved and modified from the Plan View. An overview of Plan View can be found in public QGC documentation \[1\_Mission\]. Click on \(+\) sign at the toolbar left of the screen to enter waypoint addition mode. In this mode, users can simply add waypoints by tapping or left clicking on the 2D map. A new plan can be created by clicking File -&gt; New -&gt; Yes when in Plan View.
+Missions can be created, loaded, saved, and modified from the Plan View. An overview of Plan View can be found in public [QGC documentation](https://docs.qgroundcontrol.com/en/). Click on \(+\) sign at the toolbar left of the screen to enter waypoint addition mode. In this mode, users can add waypoints by tapping or left clicking on the 2D map. A new plan can be created by clicking File -&gt; New -&gt; Yes when in Plan View.
 
 To modify a waypoint, first click on it. The selected waypoint will turn green. Click and hold on clicking for a second time to drag the waypoint around the map. Latitude and longitude values will change automatically. 
 
