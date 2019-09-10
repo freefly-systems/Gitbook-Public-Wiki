@@ -463,13 +463,13 @@ ALTA X provides two main connectivity methods for wireless telemetry: WIFI for s
 
 WiFi is most useful during preflight planning. WIFI is disabled by default, please see the next section for enabling WiFi.
 
-After enabling the WIFI, connect your ground control device to the SSID \(“ALTAX-\[SN\]\).
+After enabling the WIFI, connect your ground control device to the SSID \(“ALTAX-\[SN\]"\). Once connected, open QGroundControl, and it will automatically detect the connection and connect to the ALTA.
 
 {% hint style="warning" %}
-If operating multiple ALTAs, please make sure you connect to the correct one. Once connected, open QGroundControl, and it will automatically detect the connection and connect to the ALTA.
+If operating multiple ALTAs, please make sure you connect to the correct one. It is advised to set different passwords for each aircraft to minimize chance of erroneous connections. 
 {% endhint %}
 
-#### Changing WIFI Configurations
+#### Enable and configure WIFI
 
 ALTA X allows users to update the system’s WiFi password and SSID. All ALTA Xs initially come with WiFi disabled for safety reasons. To enable WiFi connectivity follow the steps below!
 
@@ -483,11 +483,11 @@ When flying multiple aircraft with WiFi enabled, take extreme caution to ensure 
 | :--- | :--- |
 | 1. | Connect to ALTA X using the FRX Pro or USB |
 | 2. | Go to the System Parameters under the Parameter tab in the Vehicle Setup menu and find the FF\_WIFI\_ENABLE parameter |
-| 3. | Change the FF\_WIFI\_ENABLE parameter to 1 and restart ALTA X to enable the WiFi connection. |
+| 3. | Change the FF\_WIFI\_ENABLE parameter to 1 and MAV\_1\_CONFIG to "TELEM2" and restart ALTA X  |
+| 4.  | Check \(or set\) the following parameters to configure wifi: MAV\_1\_MODE=Normal, MAV\_1\_RATE = 20000,  MAV\_1\_FORWARD=Disabled, and SER\_TEL2\_BAUD=921600 8N1 |
+|  | Restart the Alta X and connect with a wifi device.  |
 
 ![](https://lh5.googleusercontent.com/MGCV2rp3PZCHfR7T0OtUQbwDgLaFo8-HfZaL3J0T_jz60h_GyGosUMGvrCkxi7xx0KP8L84o1N1QO2EM313eSu35GmBp_dlqXpz0l2vuAvZzYIygX6AElmbrCTcfmTIULiOAFHjf)
-
-Once you have enabled ALTA X’s WiFi, change the password and SSID from their defaults!
 
 <table>
   <thead>
@@ -504,23 +504,25 @@ Once you have enabled ALTA X’s WiFi, change the password and SSID from their d
         <p></p>
         <p>Connect to ALTA X&#x2019;s WiFi using the initial password listed below</p>
         <ul>
-          <li>SSID: [off] AltaX-&lt;serial number&gt;; eg. [off] AltaX-781880</li>
+          <li>SSID: ALTAX-&lt;serial number&gt;; eg. ALTAX-781880</li>
           <li>Password: altaalta</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Note that this connection won&apos;t provide internet, and some devices
+        may disconnect if not internet is detected. Users will have to disable
+        this feature to use Alta X WIFI</td>
     </tr>
     <tr>
       <td style="text-align:left">2.</td>
-      <td style="text-align:left">Open your prefered web browser and go to 192.168.4.1</td>
+      <td style="text-align:left">Open your preferred web browser and go to 192.168.4.1</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">3.</td>
       <td style="text-align:left">
-        <p>Select setup, then update the SSID and password. Make sure to make the
-          password is eight characters long, secure, and noted down somewhere in
-          case you forget!</p>
+        <p>Select setup, then update the SSID and password as necessary. Make sure
+          to make the password is eight characters long, secure, and noted down somewhere
+          in case you forget!</p>
         <ul>
           <li><b>Do not change any of the other menu items!</b>
           </li>
@@ -552,14 +554,10 @@ Once you have enabled ALTA X’s WiFi, change the password and SSID from their d
         password.</td>
       <td style="text-align:left"></td>
     </tr>
-    <tr>
-      <td style="text-align:left">6.</td>
-      <td style="text-align:left">Connect to Futaba radio system and confirm both receivers work and system
-        arms.</td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
-</table>{% hint style="danger" %}
+</table>#### Configure WIFI settings
+
+{% hint style="danger" %}
 ALTA X passwords must be longer than eight characters and should be unique for each ALTA X. Do not use the same password on multiple machines!
 {% endhint %}
 
@@ -568,6 +566,18 @@ We suggest not selecting ‘Connect Automatically’ when using WiFi to connect 
 {% endhint %}
 
 ### FRX Pro
+
+#### Reset Wifi
+
+To reset the wifi, follow these steps:
+
+|  |  |  |
+| :--- | :--- | :--- |
+| 1. | Power off Alta X |  |
+| 2.  | Hold MSC button and connect USB power, wait for it to load into USB file mode |  |
+| 3.  | With the aircraft still powered on in USB file mode, press and hold the BOOT button for 10 seconds.  |  |
+| 4. | The Wifi will default to SSID: ALTA with password "altaalta" |  |
+| 5. | Change the wifi settings as described above in "Configure WIFI Settings"  |  |
 
 The optional FRX Pro long range radio provides telemetry and aircraft control out to much longer range than the WiFi connection.
 
