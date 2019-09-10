@@ -154,7 +154,7 @@ The Pitch, Roll, Yaw and Throttle controls are the basic flight controls and are
 
 _**Mode**_
 
-The required Mode Switch selects between the three different flight modes: Manual, Altitude, and Position. A three-position switch is recommended to select the three different modes. However, a two-position switch may be used, but will only allow for selecting between Manual Mode and \(depending on radio controller mixes\) either Altitude Mode or Height Mode
+The required Mode Switch selects between the three different flight modes: Manual, Altitude, and Position. A three-position switch is recommended to select the three different modes. However, a two-position switch may be used, but will only allow for selecting between Manual Mode and \(depending on radio controller mixes\) either Altitude Mode or Positon Mode. Other modes are available, but should be only used by experienced operators.
 
 _**Return to Home Switch**_
 
