@@ -188,7 +188,7 @@ _**Spektrum DX18**_
 | Mode Switch | 6 | Reverse |
 | Home Switch | 7 | Normal |
 
-![](https://lh6.googleusercontent.com/7ZDG1LzqhDxtJTxyMqzbDbYc_8mDuOW6_yMI4UklWiN0nbQ1RwLAjhLkljLSsu1goGgAp2oe0vM1dFsSQup0ufekchpl4eD9zq5v_uIZFmtUaD606ToK7BUXnedVJo24R1Cd6zpT)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## FPV Camera and Transmitter
 

@@ -225,7 +225,7 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../../.gitbook/assets/image%20%286%29.png)
+</table>![](../../.gitbook/assets/image%20%287%29.png)
 
 ### Replacing Booms
 
