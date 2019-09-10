@@ -240,7 +240,7 @@ Peripheral CANbus for future expansion.
 | 4 | GND | GND |
 
 {% hint style="warning" %}
-WARNING: Long Range RF CAN is 12V VCC, do not use!
+WARNING: Internal Long Range RF CAN is 12V VCC, do not use!
 {% endhint %}
 
 #### I2C Ports _- GH-4 Pin_
