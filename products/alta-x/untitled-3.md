@@ -158,7 +158,7 @@ The maximum gross weight might exceed the weight allowed by regulatory agencies.
 The maximum gross weight at a defined density altitude was established by calculating weight so that sufficient thrust margin for maneuvering is maintained.
 {% endhint %}
 
-![](../../.gitbook/assets/screenshot_51.png)
+![](../../.gitbook/assets/altax-payload%20%281%29.PNG)
 
 {% hint style="info" %}
 Cells highlighted in yellow indicate where the weight is limited by the maximum design weight
