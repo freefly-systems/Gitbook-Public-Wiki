@@ -89,7 +89,7 @@ ALTA X must have a GPS lock before takeoff to set a valid home position in order
 
 Return-to-Launch Mode will command ALTA X to fly back to the defined Home Point. When ALTA X first acquires a GPS position, it sets this as the Home Point of the flight. See the Radio Channel Mapping section in this manual for more information on setting up the Return-to-Launch Switch.
 
-RTL can be initiated automatically with a LOS event if it is selected as the Signal Loss Action in ALTA QGroundControl. RTL can also be initiated manually while flying in any Mode and setting the Home Switch to RTH.
+RTL can be initiated automatically with a LOS event if it is selected as the Signal Loss Action in ALTA QGroundControl. RTL can also be initiated manually while flying in any Mode and setting the Home Switch to RTL.
 
 When initiated manually using the Home Switch, ALTA X will climb to the configured return altitude, fly back to the Home Point, and descend to 10m. ALTA X will hover above the home point and wait for a set amount of time and then land. The pilot can cancel the RTL procedure by returning the Home Switch to off.
 
@@ -198,13 +198,19 @@ Loading the defaults or known-good presets will allow you to quickly return func
 ALTA X features redundant,  highly sensitive 3-axis magnetometers, gyroscopes, and accelerometers that measure specific force, angular rate, and earth’s magnetic field to infer heading and maintain stability. Occasionally, the sensors will require re-calibration.
 
 {% hint style="info" %}
-ALTA X’s compass should be regularly calibrated, especially when traveling between different geographic locations. For best results, it is recommended to perform manual compass calibrations away from ferrous objects, buildings and vehicles. In addition, concrete can contain steel rebar which may influence compass calibrations.
+ALTA X’s compass may require calibration if locations have changed. For best results, it is recommended to perform manual compass calibrations away from ferrous objects, buildings and vehicles. In addition, concrete can contain steel rebar which may influence compass calibrations.
 {% endhint %}
 
 {% hint style="info" %}
 Perform calibration without a payload attached and all motor booms extended and latched. Folded booms will cause an inaccurate calibration. 
 
 It is recommended to use two people to perform the compass calibration as it requires handling and rotating ALTA X.
+{% endhint %}
+
+{% hint style="info" %}
+Alta X has 4 magnetometers, one in the GPS mast, and 3 internally used as backups. In cases where a payload is mounted that affects the onboard magnetometers more than the external one, QGroundControl will notify the user that magnetometers are inconsistent. Users can calibrate the aircraft with the payload attached to solve. 
+
+If the payload is causing enough corruption that calibrating with it on does not work, contact Freefly support for alternative solutions.
 {% endhint %}
 
 ### Sensor Calibration Prep
@@ -266,8 +272,10 @@ It is recommended to use two people to perform the compass calibration as it req
       <td style="text-align:left">
         <p>Start by selecting Set Orientations and set the autopilot orientation</p>
         <ol>
-          <li>Autopilot Orientation: ROTATION_YAW_180</li>
-          <li>External Compass Orientation: ROTATION_YAW_270</li>
+          <li>Autopilot Orientation: <b>ROTATION_YAW_180</b>
+          </li>
+          <li>External Compass Orientation: <b>ROTATION_YAW_270</b>
+          </li>
         </ol>
       </td>
       <td style="text-align:center"></td>
@@ -355,7 +363,7 @@ Follow the instructions below to perform an accelerometer calibration on ALTA X.
   </tbody>
 </table>### Level Horizon Calibration
 
-Follow the instructions below to perform a level horizon calibration on ALTA X. Horizon calibrations should only be done if the horizon \(as shown in the HUD\) is not level after completing Accelerometer calibration. 
+Follow the instructions below to perform a level horizon calibration on ALTA X. Horizon calibrations should only be done if the horizon \(as shown in the HUD\) is not level after completing Accelerometer calibration and the aircraft is sitting on a level surface.
 
 |  |  |
 | :--- | :--- |
@@ -395,7 +403,7 @@ The GPS module includes multi-color LED status lights that provide extra indicat
       <td style="text-align:left">Armed, No GPS Lock</td>
       <td style="text-align:left">
         <p>Indicates vehicle has been armed and has no position lock from the GPS.
-          Position, Mission and RTH flight modes are not available.
+          Position, Mission and RTL flight modes are not available.
           <br />
         </p>
         <p>Warning! When armed, propellers will start spinning!
@@ -407,7 +415,7 @@ The GPS module includes multi-color LED status lights that provide extra indicat
       <td style="text-align:left">Pulsing Blue</td>
       <td style="text-align:left">Disarmed, No GPS Lock</td>
       <td style="text-align:left">Indicates vehicle is disarmed armed and has no position lock from the
-        GPS. Position, Mission and RTH flight modes will not be available until
+        GPS. Position, Mission and RTL flight modes will not be available until
         GPS lock is acquired.</td>
     </tr>
     <tr>
@@ -433,7 +441,7 @@ The GPS module includes multi-color LED status lights that provide extra indicat
       <td style="text-align:left">Solid Purple</td>
       <td style="text-align:left">Failsafe Mode</td>
       <td style="text-align:left">Indicates an error has been encountered during flight and the vehicle
-        will enter RTH mode.</td>
+        will enter RTL mode.</td>
     </tr>
     <tr>
       <td style="text-align:left">Solid Amber</td>
