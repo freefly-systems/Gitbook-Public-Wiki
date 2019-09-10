@@ -4,6 +4,16 @@
 
 ## Products
 
+* [ALTA X](products/alta-x/README.md)
+  * [Introducing ALTA X](products/alta-x/introducing-alta-x.md)
+  * [Features](products/alta-x/features.md)
+  * [Quick Start Guide](products/alta-x/untitled-8.md)
+  * [Aircraft Setup](products/alta-x/untitled-7.md)
+  * [Procedures](products/alta-x/untitled-6.md)
+  * [Integrations](products/alta-x/untitled-5.md)
+  * [Maintenance](products/alta-x/untitled-4.md)
+  * [Appendix](products/alta-x/untitled-3.md)
+  * [Legal](products/alta-x/untitled-2.md)
 * [ALTA 8 Pro](products/alta-8-pro/README.md)
   * [Overview](products/alta-8-pro/overview/README.md)
     * [Introduction](products/alta-8-pro/overview/introduction.md)
