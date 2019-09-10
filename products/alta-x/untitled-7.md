@@ -95,7 +95,7 @@ When initiated manually using the Home Switch, ALTA X will climb to the configur
 
 During an LOS event, RTL followed by Autoland will be initiated automatically. ALTA X will first check its current altitude against configured RTL altitude. ALTA X will climb to Safe Height. Next, ALTA X will fly back to the home position at the default waypoint speed set in the ALTA X QGroundControl. Finally, upon reaching the home position, ALTA X will loiter for 45s and then begin to Autoland.
 
-The Autoland function will land in place. The vertical speed at which the ALTA will descend during an Autoland varies as the ALTA approaches the ground. Higher above the elevation of the home point, ALTA Pro descends at a faster rate and gradually slows to the user-defined Autoland Descent Rate before landing. By default, the aircraft will descend at 0.7m/s until touchdown is detected. 
+The Autoland function will land in place. The vertical speed at which the ALTA will descend during an Autoland varies as the ALTA approaches the ground. Higher above the elevation of the home point, ALTA X descends at a faster rate and gradually slows to the user-defined Autoland Descent Rate before landing. By default, the aircraft will descend at 0.7m/s until touchdown is detected. 
 
 {% hint style="danger" %}
 Autoland is intended to be a failsafe in case of loss of RC control only. If control is available, the operator should land in manual mode. High wind, sloped ground, and narrow landing gear on the current payload can make the aircraft prone to tip over when autolanding. Reducing the autoland velocity may result in missed land detection for some weight combinations, which can have unpredictable results, so it is advised not to change this value.
