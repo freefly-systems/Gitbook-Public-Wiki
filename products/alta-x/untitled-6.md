@@ -198,7 +198,7 @@ If ALTA X moves during initialization, it may not boot properly and will fail to
 
 At the end of this process the LEDs will go from white to the user selected colors \(stock colors are green facing forward and red facing toward the rear of the aircraft\) indicating ALTA X is ready for arming.
 
-Verify that there are no flight warnings by connecting to ALTA X via ALTA X QGroundControl and checking for warnings or errors. For more information, see the ALTA Pro QGroundControl section of this manual.
+Verify that there are no flight warnings by connecting to ALTA X via ALTA X QGroundControl and checking for warnings or errors. For more information, see the ALTA QGroundControl section of this manual.
 
 ### Before Takeoff
 
@@ -223,7 +223,7 @@ Prior to start, check the surrounding area to ensure people and objects are clea
 Ensure that ALTA X QGroundControl shows all sensors are calibrated and ready for flight.
 
 {% hint style="danger" %}
-ALTA X’s props spin at a high RPM and the ends of the blades move at high speeds. ALTA Pro’s props can cause severe injury or death or cause damage to objects while rotating. Always ensure the area surrounding the props and ALTA Pro is clear of people or objects prior to starting the motors.
+ALTA X’s props spin at a high RPM and the ends of the blades move at high speeds. ALTA X’s props can cause severe injury or death or cause damage to objects while rotating. Always ensure the area surrounding the props and ALTA X is clear of people or objects prior to starting the motors.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -371,7 +371,7 @@ If battery cell voltage is below Land Voltage while flying in Altitude or Positi
 |  |  |  |
 | :--- | :--- | :--- |
 | 1. | Boom LEDs | SLOW FLASH |
-| 2. | ALTA X | WARNING popup in ALTA Pro QGroundControl |
+| 2. | ALTA X | WARNING popup in ALTA QGroundControl |
 | 3. | Pitch and Roll | MANEUVER away from people or objects |
 
 If the battery cell voltage drops below the Alarm Voltage, the boom LEDs will flash. Terminate the flight and land as soon as possible.
@@ -391,11 +391,11 @@ ALTA X will only Autoland if the battery exhaustion failsafe is set to RTL.
 | 3. | Mode Switch | POSITION |
 | 4. | Home Switch | Return-to-Land |
 
-Loss of Signal \(LOS\) can occur if the radio controller stops transmitting a signal, or if ALTA X is too far away to receive it. In the event ALTA X detects a LOS, it will automatically execute a Return-to-Land or Autoland as configured in ALTA X QGroundControl if using an S.Bus/S.Bus2 or DSM2/DSMX radio type. While ALTA Pro includes these emergency control modes, it is always recommended to attempt to regain signal link with ALTA Pro to keep the pilot in control of the aircraft.
+Loss of Signal \(LOS\) can occur if the radio controller stops transmitting a signal, or if ALTA X is too far away to receive it. In the event ALTA X detects a LOS, it will automatically execute a Return-to-Land or Autoland as configured in ALTA X QGroundControl if using an S.Bus/S.Bus2 or DSM2/DSMX radio type. While ALTA X includes these emergency control modes, it is always recommended to attempt to regain signal link with ALTA X to keep the pilot in control of the aircraft.
 
-Move the antenna orientation for best signal strength. Ensure the radio antenna matches the direction of the receiver antennas. Move the radio away from objects to get a clear line-of-sight to ALTA Pro.
+Move the antenna orientation for best signal strength. Ensure the radio antenna matches the direction of the receiver antennas. Move the radio away from objects to get a clear line-of-sight to ALTA X.
 
-Set the Mode switch to Position and the Home switch to Return-to-Land so ALTA Pro will continue to approach the home point if the signal is momentarily regained, resulting in higher likelihood of regaining full signal reception.
+Set the Mode switch to Position and the Home switch to Return-to-Land so ALTA X will continue to approach the home point if the signal is momentarily regained, resulting in higher likelihood of regaining full signal reception.
 
 If efforts to regain control signal are unsuccessful, ALTA X will begin either the Return-to-Land and Autoland sequence as configured in ALTA X QGroundControl. Refer to the Flight Controller Modes section of this manual for additional information regarding functionality available with specific radio types.
 
@@ -422,6 +422,6 @@ Yawing the aircraft can help signal reception if the body of the aircraft is blo
 If FPV signal or visual contact cannot be maintained, setting the Mode switch to Position Mode and enabling Return-to-Land can be used to bring the aircraft back to signal reception range.
 
 {% hint style="danger" %}
-It is the responsibility of the pilot to see and avoid other aircraft, people, or obstacles. Always maintain direct line of sight with ALTA Pro during flight, use visual observers as operations require, and follow local regulations regarding see-and-avoid requirements.
+It is the responsibility of the pilot to see and avoid other aircraft, people, or obstacles. Always maintain direct line of sight with ALTA X during flight, use visual observers as operations require, and follow local regulations regarding see-and-avoid requirements.
 {% endhint %}
 
