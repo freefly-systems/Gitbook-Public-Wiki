@@ -46,11 +46,11 @@
 |  |  |
 | :--- | :--- |
 | Number of Motors | 4 |
-| Motor Make and Model | DJI E7000 |
+| Motor Make and Model | E7000 |
 | Motor Max Continuous Power Output | 100 A |
 | Motor Max Instantaneous Peak Power Output | 130 A \(&gt;3s\) |
 | Equivalent Kv | 115 rpm/V |
-| Electronic Speed Controller | DJI 12100 |
+| Electronic Speed Controller | 12100 |
 
 ### Propellers
 
