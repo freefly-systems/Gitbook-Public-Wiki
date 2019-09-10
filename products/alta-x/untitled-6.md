@@ -214,7 +214,9 @@ Verify that there are no flight warnings by connecting to ALTA X via ALTA X QGro
 | 8. | Orientation Lights | VERIFY USER-DEFINED COLOR |
 | 9. | Motors | START, and VERIFY OPERATION |
 | 10. | Flight Controls | VERIFY CORRECT |
-| 11. | Throttle | ADVANCE directly to hover |
+| 11. | Throttle | ADVANCE to 15% |
+| 12. | Direction check | VERIFY ROLL PITCH RESPONSE DIRECTIONS CORRECT |
+| 13. | Throttle | INCREASE THROTTLE TO TAKEOFF |
 
 Prior to start, check the surrounding area to ensure people and objects are clear of ALTA X and its props. Also ensure that there are no people or objects between the ALTA X’s takeoff location and its intended flight path.
 
