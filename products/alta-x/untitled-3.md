@@ -107,7 +107,7 @@
 
 |  |  |
 | :--- | :--- |
-| Autopilot Name | Custom PX4 flight control stack |
+| Autopilot Name | Custom Auterion PX4 flight control stack |
 | Flight Modes | Manual, Altitude, Position, Mission, Loiter, Orbit, Return |
 | Supported Inputs | MAVlink SDK |
 | Supported Radios | Futaba, Spektrum, PX4 compatible SBUS and PPM receivers |
