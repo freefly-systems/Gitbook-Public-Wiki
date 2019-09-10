@@ -77,21 +77,17 @@ Position Mode is assistive only and is not a replacement for pilot skill and abi
 Flight using Position Mode in areas of degraded GPS signal, such as near buildings or under dense tree cover, is not recommended. The automatic reversion to Manual Mode can cause unexpected, abrupt changes in flight behavior.
 {% endhint %}
 
-{% hint style="danger" %}
-Flight using Position Mode with Compass enabled in areas near large ferrous objects or high magnetic flux is not recommended. Incorrect compass readings can result in loss of control. 
-{% endhint %}
-
 ### Waypoints Mode
 
 Waypoints mode allows ALTA X to execute a predefined autonomous waypoint missions that have been uploaded to the flight controller via ALTA QGroundControl \(QGC\). For more information on all of the different options and abilities built into the Waypoint functionality you can read more in the [PX4 Literature](https://docs.px4.io/v1.9.0/en/flight_modes/mission.html).
 
-{% hint style="info" %}
-ALTA X must have a GPS lock on its home position in order to start a waypoints mission. Waypoint mode will be unavailable if the aircraft took off before GPS lock was achieved. Operator must land and rearm with GPS lock to enable.
+{% hint style="warning" %}
+ALTA X must have a GPS lock before takeoff to set a valid home position in order to start a waypoints mission. Waypoint mode will be unavailable if the aircraft took off before GPS lock was achieved. Operator must land and rearm with GPS lock to enable.
 {% endhint %}
 
 ### Return-to-Launch
 
-Return-to-Launch Mode will command ALTA X to fly back to the defined Home Point. When ALTA Pro first acquires a GPS position, it sets this as the Home Point of the flight. See the Radio Channel Mapping section in this manual for more information on setting up the Return-to-Launch Switch.
+Return-to-Launch Mode will command ALTA X to fly back to the defined Home Point. When ALTA X first acquires a GPS position, it sets this as the Home Point of the flight. See the Radio Channel Mapping section in this manual for more information on setting up the Return-to-Launch Switch.
 
 RTL can be initiated automatically with a LOS event if it is selected as the Signal Loss Action in ALTA QGroundControl. RTL can also be initiated manually while flying in any Mode and setting the Home Switch to RTH.
 
@@ -103,6 +99,14 @@ The Autoland function will land in place. The vertical speed at which the ALTA w
 
 {% hint style="danger" %}
 Autoland is intended to be a failsafe in case of loss of RC control only. If control is available, the operator should land in manual mode. High wind, sloped ground, and narrow landing gear on the current payload can make the aircraft prone to tip over when autolanding. Reducing the autoland velocity may result in missed land detection for some weight combinations, which can have unpredictable results, so it is advised not to change this value.
+{% endhint %}
+
+{% hint style="warning" %}
+The RTL switch on the radio will override all other modes, and prevent any mode switches. To return to a normal flight mode, make sure to toggle the RTL switch to OFF. 
+{% endhint %}
+
+{% hint style="warning" %}
+Ensure that the RTL switch is OFF before takeoff.
 {% endhint %}
 
 ## Landing Modes
@@ -139,8 +143,8 @@ If the aircraft tips over with the props running, ALWAYS power cycle the aircraf
 | OSD\_BAT\_ALARM | Sets what cell voltage the aircraft will flash the Boom lights and the OSD battery symbol to indicate low battery to the user. |
 | MPC\_MAN\_TILT\_MAX | Defines how far the aircraft is allowed to tilt while being controlled in manual mode. This can be reduced for a little less aggressive feeling for a pilot. Recommended to leave at 45 degrees for maximum performance. Reducing to 35 degrees will give a more gentle and slow flight handling. This parameter only affects manual mode. In position and automodes, the aircraft angle is set to 45 for performance. |
 | MPC\_VEL\_MANUAL | Defines how fast the maximum speed the aircraft will fly in position mode. This can be reduced for more fine control at lower speeds. |
-| MPC\_XY\_CRUISE | Defines how fast the maximum speed the aircraft will fly in position mode. This can be reduced for more fine control at lower speeds. |
-| \*\_EXPO | Defines the default waypoint speed, as well as the RTH speed. This can be increased up to 20m/s, however it is suggested to set waypoint velocity separately for missions. If setting this high and commanding slow waypoint velocities may result in the aircraft slowing down too far in advance of a waypoint. |
+| MPC\_XY\_CRUISE | Defines the default waypoint speed, as well as the RTL speed. This can be increased up to 20m/s, however it is suggested to set waypoint velocity separately for missions. If setting this high and commanding slow waypoint velocities may result in the aircraft slowing down too far in advance of a waypoint. |
+| \*\_EXPO | Controls stick expo in different modes, can be used to adjust the feel of the aircraft while flying. More expo will require more stick input to get the same angle or speed when near zero stick, and will increase rapidly to maximum once the stick is at higher deflections. |
 | MPC\_Z\_VEL\_MAX\_\(_UP/DN\)_ | Controls maximum climb and descent velocities in altitude, position and waypoint modes. |
 
 ## Mission Planning
