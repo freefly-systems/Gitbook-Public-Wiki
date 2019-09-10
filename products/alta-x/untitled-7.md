@@ -583,12 +583,36 @@ The optional FRX Pro long range radio provides telemetry and aircraft control ou
 
 #### Using FRX Pro
 
-|  |  |  |
-| :--- | :--- | :--- |
-| 1. |  |  |
-| 2. |  |  |
-
-#### Binding FRX Pro
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1.</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Plug the ground FRX Pro into a laptop or portable device using a USB-C
+          cable</p>
+        <ul>
+          <li>The device should recognize the FRX as a serial comms device</li>
+          <li>The LED on the FRX will light up</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2.</td>
+      <td style="text-align:left">Power up ALTA X, if bound the FRX&apos;s will connect automatically and
+        begin sending data back and forth.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>#### Binding FRX Pro
 
 ![](../../.gitbook/assets/untitled-2.jpg)
 
