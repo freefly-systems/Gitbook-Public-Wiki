@@ -54,8 +54,8 @@
 
 |  |  |
 | :--- | :--- |
-| Make and Model | DJI R3390  |
-| Material | Ultra Carbon Pro |
+| Model | 33 x 9in |
+| Material | Carbon Fiber Reinforced Nylon |
 | Propeller Orientation | \(2x\) CW and \(2x\) CCW Props |
 | Propeller Type | Folding - 840 x 230 mm  |
 
