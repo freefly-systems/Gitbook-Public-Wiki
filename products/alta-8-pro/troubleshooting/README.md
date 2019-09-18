@@ -83,6 +83,13 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Alta Pro seems to &quot;hop&quot; or &quot;dip&quot; at the end of a climb</td>
+      <td
+      style="text-align:left">Hover throttle not set correctly</td>
+        <td style="text-align:left">Change hover throttle to match weight of aircraft. 49% for ~10lb payload,
+          closer to 40% for light aircraft.</td>
+    </tr>
+    <tr>
       <td style="text-align:left">ALTA Pro does not maintain level pitch or roll</td>
       <td style="text-align:left">Pitch or Roll Trim position not set</td>
       <td style="text-align:left">Use the ALTA app to set the appropriate pitch and roll trim</td>
@@ -154,7 +161,7 @@
       <td style="text-align:left"></td>
       <td style="text-align:left">Compass corruption or calibration</td>
       <td style="text-align:left">Check surroundings for ferrous objects or magnetic interference. Calibrate
-        the compass. Disable the compass assist in the ALTA Pro QGroundControl.</td>
+        the compass.</td>
     </tr>
     <tr>
       <td style="text-align:left">ALTA Pro circles a point in Position Mode</td>
@@ -169,19 +176,13 @@
     <tr>
       <td style="text-align:left">ALTA Pro does not track straight in Position Mode</td>
       <td style="text-align:left">Compass calibration invalid</td>
-      <td style="text-align:left">Perform a manual compass calibration. Disable compass assist in the ALTA
-        App if location has high magnetic flux or large ferrous objects</td>
+      <td style="text-align:left">Perform a manual compass calibration.</td>
     </tr>
     <tr>
       <td style="text-align:left">ALTA Pro does not Return-to-Land when commanded</td>
       <td style="text-align:left">Position Lock not achieved</td>
       <td style="text-align:left">Monitor the ALTA Pro QGroundControl to ensure position lock has been achieved
         with strong GPS signal</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Incorrect initiation</td>
-      <td style="text-align:left">Incorrect initiation process</td>
-      <td style="text-align:left">Set Mode switch to Position Mode. Set Home switch to RTL.</td>
     </tr>
     <tr>
       <td style="text-align:left">ALTA Pro wobbles when descending</td>
