@@ -484,8 +484,9 @@ When flying multiple aircraft with WiFi enabled, take extreme caution to ensure 
 | 1. | Connect to ALTA X using the FRX Pro or USB |
 | 2. | Go to the System Parameters under the Parameter tab in the Vehicle Setup menu and find the FF\_WIFI\_ENABLE parameter |
 | 3. | Change the FF\_WIFI\_ENABLE parameter to 1 and MAV\_1\_CONFIG to "TELEM2" and restart ALTA X  |
-| 4.  | Check \(or set\) the following parameters to configure wifi: MAV\_1\_MODE=Normal, MAV\_1\_RATE = 20000,  MAV\_1\_FORWARD=Disabled, and SER\_TEL2\_BAUD=921600 8N1 |
-|  | Restart the Alta X and connect with a wifi device.  |
+| 4. | Re-download the parameters by selecting Tools... Refresh in the parameter screen |
+| 5.  | Check \(or set\) the following parameters to configure wifi: MAV\_1\_MODE=Normal, MAV\_1\_RATE = 20000,  MAV\_1\_FORWARD=Disabled, and SER\_TEL2\_BAUD=921600 8N1 |
+| 6. | Restart the Alta X and connect with a wifi device.  |
 
 ![](https://lh5.googleusercontent.com/MGCV2rp3PZCHfR7T0OtUQbwDgLaFo8-HfZaL3J0T_jz60h_GyGosUMGvrCkxi7xx0KP8L84o1N1QO2EM313eSu35GmBp_dlqXpz0l2vuAvZzYIygX6AElmbrCTcfmTIULiOAFHjf)
 
