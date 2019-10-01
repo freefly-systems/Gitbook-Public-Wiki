@@ -255,9 +255,9 @@ I2C bus for future expansion
 
 ### Power Expansion
 
-The power expansion port is located between booms 1 and 2 on the ALTA; it contains three direct battery connected power expansion connectors with female socket pin XT-30 type connectors. Each output is protected by a 10A automotive mini blade type fuse. The replacement fuse part number is 0297010.WXNV.
+The power expansion port is located between booms 1 and 2 on the ALTA; it contains three externally-facing and two internally-facing direct battery connected power expansion connectors with female socket pin XT-30 type connectors. Each external output is protected by a 10A automotive mini blade type fuse. The replacement fuse part number is 0297010.WXNV.
 
-The system and fuses are sized to supply 10A or less continuously on each port simultaneously. Please note that the output voltage will vary with system battery voltage as the battery discharges.
+The system and fuses are sized to supply 10A or less continuously on each external port simultaneously; the internal connectors share the same fuse with the external connector J1. Please note that the output voltage will vary with system battery voltage as the battery discharges.
 
 {% hint style="warning" %}
 Use of any other size fuse could cause the aircraft to crash if shorted. 

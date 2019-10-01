@@ -161,7 +161,7 @@ Users can observe mission specific values such as total mission time or total mi
 
 ### Detailed Mission Items
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 |  |  |
 | :--- | :--- |
