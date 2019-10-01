@@ -84,4 +84,5 @@
     * [Binding and Setup](products/frx-pro/how-to-use/how-to-bind.md)
     * [Updating and Configuration](products/frx-pro/how-to-use/how-to-update.md)
   * [Troubleshooting](products/frx-pro/troubleshooting.md)
+  * [Software Release Notes](products/frx-pro/software-release-notes.md)
 
