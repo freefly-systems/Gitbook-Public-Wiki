@@ -73,6 +73,7 @@
     * [Getting Started](products/m-vi-pro-series/blackjack/getting-started.md)
     * [What's New](products/m-vi-pro-series/blackjack/whats-new.md)
     * [360 Roll](products/m-vi-pro-series/blackjack/360-roll.md)
+* [Movi Pro Trouble Shooting Tree](products/movi-pro-trouble-shooting-tree.md)
 * [FRX Pro](products/frx-pro/README.md)
   * [Overview](products/frx-pro/overview/README.md)
     * [Introduction](products/frx-pro/overview/introduction.md)
