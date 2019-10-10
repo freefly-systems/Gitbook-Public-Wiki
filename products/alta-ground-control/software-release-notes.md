@@ -2,7 +2,7 @@
 
 ## Intro
 
-ALTA QGroundControl is based on the public version of the [QGroundControl](http://qgroundcontrol.com) and is taylored for use with ALTA X and ALTA 8 Pro. Although you should be able to use the public version, we highly recommend using the Freefly version to be fully compatible. Freefly only uses and tests the ALTA QGroundControl.
+ALTA QGroundControl is based on the public version of the [QGroundControl](http://qgroundcontrol.com) and is tailored for use with ALTA X and ALTA 8 Pro. Although you should be able to use the public version, we highly recommend using the Freefly version to be fully compatible. Freefly only uses and tests the ALTA QGroundControl.
 
 ## September 2019
 
