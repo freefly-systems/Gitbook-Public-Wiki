@@ -68,6 +68,8 @@
     * [Guidelines Following an Accident](products/alta-8-pro/maintaining-alta-8-pro/guidelines-following-an-accident.md)
   * [Troubleshooting](products/alta-8-pro/troubleshooting/README.md)
     * [Default Tuning Values](products/alta-8-pro/troubleshooting/default-tuning-values.md)
+* [ALTA Ground Control](products/alta-ground-control/README.md)
+  * [Software Release Notes](products/alta-ground-control/software-release-notes.md)
 * [MōVI Pro Series](products/m-vi-pro-series/README.md)
   * [Troubleshooting Tree](products/m-vi-pro-series/troubleshooting-tree.md)
   * [Blackjack](products/m-vi-pro-series/blackjack/README.md)
