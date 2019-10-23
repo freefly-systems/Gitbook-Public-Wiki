@@ -13,6 +13,7 @@
   * [Integrations](products/alta-x/untitled-5.md)
   * [Maintenance](products/alta-x/untitled-4.md)
   * [Appendix](products/alta-x/untitled-3.md)
+  * [Technical Drawings and CAD](products/alta-x/technical-drawings-and-cad.md)
   * [Legal](products/alta-x/untitled-2.md)
 * [ALTA 8 Pro](products/alta-8-pro/README.md)
   * [Overview](products/alta-8-pro/overview/README.md)
