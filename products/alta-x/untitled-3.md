@@ -224,5 +224,55 @@ The system and fuses are sized to supply 10A or less continuously on each extern
 Use of any other size fuse could cause the aircraft to crash if shorted. 
 {% endhint %}
 
+## FPV Cable Pinout
 
+### Cable FPV TX
 
+Every Alta X comes with a cable pre-installed to attach the FPV video transmission system. Freefly provides this FPV system and the appropriate cable to attach the transmitter to the aircraft cable, but if the customer wants to install their own FPV transmitter, please use the pinout below for wiring guidance.
+
+![FPV TX Cable connector from aircraft](../../.gitbook/assets/850-00303-assembly-cable-fpv-tx-pinout-google-chrome-2019-10-29-15.06.17.png)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>Connector Pinout</p>
+        <p>(DF11-6DEP-2C)</p>
+      </th>
+      <th style="text-align:left">Designation</th>
+      <th style="text-align:left">Color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">12V</td>
+      <td style="text-align:left">RED</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">GND</td>
+      <td style="text-align:left">BLACK</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">5V</td>
+      <td style="text-align:left">PURPLE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">5V-Pass-Thru</td>
+      <td style="text-align:left">GREY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">VID-IN</td>
+      <td style="text-align:left">YELLOW</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">VID-OUT</td>
+      <td style="text-align:left">ORANGE</td>
+    </tr>
+  </tbody>
+</table>
