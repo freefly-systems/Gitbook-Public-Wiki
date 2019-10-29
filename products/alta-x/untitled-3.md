@@ -230,7 +230,9 @@ Use of any other size fuse could cause the aircraft to crash if shorted.
 
 Every Alta X comes with a cable pre-installed to attach the FPV video transmission system. Freefly provides this FPV system and the appropriate cable to attach the transmitter to the aircraft cable, but if the customer wants to install their own FPV transmitter, please use the pinout below for wiring guidance.
 
-![FPV TX Cable connector from aircraft](../../.gitbook/assets/850-00303-assembly-cable-fpv-tx-pinout-google-chrome-2019-10-29-15.06.17.png)
+![FPV TX Cable connector from aircraft \(Mating connector is HIROSE DF11-6DS-2C\)](../../.gitbook/assets/850-00303-assembly-cable-fpv-tx-pinout-google-chrome-2019-10-29-15.06.17.png)
+
+
 
 <table>
   <thead>
