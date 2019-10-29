@@ -194,6 +194,8 @@ _**Spektrum DX18**_
 
 ### FPV System installation
 
+Note: If you are installing a different FPV Transmitter other than the Freefly FPV system, please see the appendix section for wiring guidance.
+
 |  |  |  |
 | :--- | :--- | :--- |
 | 1. | Connect the FPV camera cable to the FPV extension located inside the chassis at the base of boom. | ![](https://lh6.googleusercontent.com/HXDP7YGrxOaiacx3mV7AS1WEqhXG4-gApY1mheCgdcLZyqVlh8ViiG5SrKLLZes-2H8K-zILHD2_MAw6RKkzDk6kGy6WhqVoE0z0OllNgDGTd-Fcj3UNNx3ppYFIGfE_GgbCul3G) |
