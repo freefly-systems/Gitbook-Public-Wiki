@@ -1,125 +1,4 @@
-# Appendix
-
-## 
-
-### Powerplant
-
-|  |  |
-| :--- | :--- |
-| Number of Motors | 4 |
-| Motor Max Continuous Power Output | 100 A |
-| Motor Max Instantaneous Peak Power Output | 130 A \(&gt;3s\) |
-| Equivalent Kv | 115 rpm/V |
-
-### Propellers
-
-|  |  |
-| :--- | :--- |
-| Material | Carbon Fiber Reinforced Nylon |
-| Propeller Orientation | \(2x\) CW and \(2x\) CCW Props |
-| Propeller Type | Folding - 840 x 230 mm \(33 x 9in\) |
-
-### Battery
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Cells</td>
-      <td style="text-align:left">12S</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Nominal Battery Voltage</td>
-      <td style="text-align:left">44.4V</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Charged Battery Voltage</td>
-      <td style="text-align:left">50.4V</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Battery Connectors</td>
-      <td style="text-align:left">XT-90</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Required Minimum Battery Discharge Rating (Per Pack)</td>
-      <td style="text-align:left">
-        <p>320 Amps per battery</p>
-        <ul>
-          <li>(assumes two batteries) 20C for a 16A-hr pack.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>### Weight
-
-|  |  |
-| :--- | :--- |
-| Maximum Gross for Takeoff | 34.9kg |
-| Maximum Payload | 15.9kg |
-| Typical Standard Empty Weight | 10.4 kg |
-
-### Flight Controller
-
-|  |  |
-| :--- | :--- |
-| Autopilot Name | Custom Auterion PX4 flight control stack |
-| Flight Modes | Manual, Altitude, Position, Mission, Loiter, Orbit, Return |
-| Supported Inputs | MAVlink SDK |
-| Supported Radios | Futaba, Spektrum, PX4 compatible SBUS and PPM receivers |
-| Supported Radio Controller Telemetry Systems | Voltage feed provided for Futaba RX telemetry |
-| Minimum Radio Controller Channels Required | 5 \(roll, pitch, yaw, throttle, mode\) |
-| Supported GNSS | GPS/Glonass/Beidou/Galileo |
-
-### Lighting and Indication
-
-|  |  |
-| :--- | :--- |
-| Orientation Lights | Boom tip mounted LEDs |
-| Orientation Light Color Options | User controlled in software - red, orange, yellow, green, cyan, blue, purple, white, and off. |
-| FPV Ability | Yes, see the FPV integration section for instructions on how to mount the FPV. |
-
-### Isolation Systems
-
-|  |  |
-| :--- | :--- |
-| Vibration Isolation System | Built-in _\(see chart below for weight suggestions\)_ |
-
-| Payload \[lb\] | Payload \[Kg\] | Isolator Durometer | Cartridge Qty |
-| :--- | :--- | :---: | :---: |
-| 0 - 3 \* | 0 - 1.4 | 30A | 3 |
-| 4 - 10 \* | 1.8 - 4.5 | 30A | 6 |
-| 11 - 19 \*\* | 5.0 - 8.6 | 30A | 9 |
-| 20 - 23 \*\* | 9.1 - 10.4 | 30A/40A | 9 |
-| 24 - 29 \*\* | 10.9 - 13.2 | 40A | 9 |
-| 30 - 32 \*\* | 13.6 - 14.5 | 40A/50A | 9 |
-| 33 - 35 \*\* | 15.0 - 15.9 | 50A | 9 |
-
-## Performance Charts
-
-### Flight Time v. Payload
-
-![](https://lh3.googleusercontent.com/WBztCTmAsgDK4HR1Ao7r3nvKdrD5B4wLEAKPVQMLUJ9spR9fa-cF1KbD9PjU1SvEp83Ws7bhesKLrEiGayghU6c1MLR8bJypQmKuOxamOoQDCSk3gYFnBZC0e2bBkawdvhBt4-rp)
-
-### Maximum Gross Weight
-
-To determine maximum gross weight, determine flight location pressure altitude and temperature, and refer to the weight in the chart below. Gross Weight includes payload, battery and structure weight.
-
-The maximum gross weight might exceed the weight allowed by regulatory agencies. When determining gross weight, please consider any such local restrictions on aircraft weight when planning aircraft weight.
-
-{% hint style="info" %}
-The maximum gross weight at a defined density altitude was established by calculating weight so that sufficient thrust margin for maneuvering is maintained.
-{% endhint %}
-
-![](../../.gitbook/assets/altax-payload%20%281%29.PNG)
-
-{% hint style="info" %}
-Cells highlighted in yellow indicate where the weight is limited by the maximum design weight
-{% endhint %}
+# Electrical Interfaces
 
 ## Expansion Ports
 
@@ -127,7 +6,7 @@ Cells highlighted in yellow indicate where the weight is limited by the maximum 
 
 The external communications expansion port is located between booms 1 and 2 on the ALTA.
 
-![](../../.gitbook/assets/screenshot_54.png)
+![](../../../.gitbook/assets/screenshot_54.png)
 
 <table>
   <thead>
@@ -141,13 +20,13 @@ The external communications expansion port is located between booms 1 and 2 on t
       <td style="text-align:center">
         <p></p>
         <p>
-          <img src="../../.gitbook/assets/screenshot_53.png" alt/>
+          <img src="../../../.gitbook/assets/screenshot_53.png" alt/>
         </p>
       </td>
       <td style="text-align:center">
         <p></p>
         <p>
-          <img src="../../.gitbook/assets/screenshot_52.png" alt/>
+          <img src="../../../.gitbook/assets/screenshot_52.png" alt/>
         </p>
       </td>
     </tr>
@@ -229,7 +108,7 @@ Use of any other size fuse could cause the aircraft to crash if shorted.
 
 Every Alta X comes with a cable pre-installed to attach the FPV video transmission system. Freefly provides this FPV system and the appropriate cable to attach the transmitter to the aircraft cable, but if the customer wants to install their own FPV transmitter, please use the pinout below for wiring guidance.
 
-![FPV TX Cable connector from aircraft \(Mating connector is HIROSE DF11-6DS-2C\)](../../.gitbook/assets/850-00303-assembly-cable-fpv-tx-pinout-google-chrome-2019-10-29-15.06.17.png)
+![FPV TX Cable connector from aircraft \(Mating connector is HIROSE DF11-6DS-2C\)](../../../.gitbook/assets/850-00303-assembly-cable-fpv-tx-pinout-google-chrome-2019-10-29-15.06.17.png)
 
 
 
@@ -277,3 +156,4 @@ Every Alta X comes with a cable pre-installed to attach the FPV video transmissi
     </tr>
   </tbody>
 </table>
+

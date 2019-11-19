@@ -1,6 +1,6 @@
 # Procedures
 
-### Unpacking and Setup
+## Unpacking and Setup
 
 <table>
   <thead>
@@ -62,7 +62,7 @@ Check that the receivers and the electrical connectors that attach to the receiv
 
 For information on installing isolator cartridges and setting up payload mounting locations, refer to the Isolator Cartridges and Configuring GroundView or SkyView sections of this manual.
 
-### Before Starting
+## Before Starting
 
 <table>
   <thead>
@@ -200,7 +200,7 @@ At the end of this process the LEDs will go from white to the user selected colo
 
 Verify that there are no flight warnings by connecting to ALTA X via ALTA X QGroundControl and checking for warnings or errors. For more information, see the ALTA QGroundControl section of this manual.
 
-### Before Takeoff
+## Before Takeoff
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -244,7 +244,7 @@ Only take off in Manual Mode or let the ALTA X take off autonomously when doing 
 Altitude Mode and Position Mode are assistive only and are not a replacement for pilot skill and ability. Pilots should be proficient in Manual Mode flight in order to react to emergency situations as required.
 {% endhint %}
 
-### After Every Flight
+## After Every Flight
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -270,7 +270,7 @@ The downwash from the propellers can disturb debris. This debris can be ingested
 
 After flight is also a good time to check the condition of battery packs. Always refer to the battery manufacturer’s recommendations for inspection and replacement intervals or requirements.
 
-### After Last Flight
+## After Last Flight
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -287,9 +287,9 @@ Ensure the ALTA is placed in the case properly by matching the grey ActiveBlase 
 
 Pay special attention to the external GPS, 900/868MHz Telemetry radio and optional accessories if installed \(FPV camera and Tx\) when putting the ALTA X back into its case
 
-### Emergency Procedures
+## Emergency Procedures
 
-#### Emergency Guidance
+### Emergency Guidance
 
 The emergency procedures listed in this section are the recommended practices for handling the aircraft in the event of an aircraft emergency. This guidance should be considered and applied as necessary.
 
@@ -303,7 +303,7 @@ In general, if an emergency occurs, three basic actions can be applied to most s
 2. Analyze the situation—Once the aircraft is stabilized, begin to assess the cause of the emergency if practical.
 3. Take appropriate action—In many cases, the appropriate action will be to land the aircraft as soon as possible. Always consider the safety of yourself and others before attempting to save the aircraft in an emergency.
 
-#### Alarm Indication 
+### Alarm Indication 
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -315,7 +315,7 @@ Alarms are displayed if the flight controller determines there is a condition pr
 
 Land as soon as possible when the Boom LEDs indicate a warning, and investigate the problem while ALTA X is safely on the ground. It is best practice to set the mode switch to Manual when an Alarm is observed to maintain full control authority of ALTA X. 
 
-#### Pilot Loss of Orientation
+### Pilot Loss of Orientation
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -332,7 +332,7 @@ Land as soon as possible when the Boom LEDs indicate a warning, and investigate 
 Position Mode may not function as expected if Position Lock has not been achieved. It is best practice to wait for Position Lock prior to takeoff, even if Position Mode is not planned to be used during the flight.
 {% endhint %}
 
-#### Unexpected Flight Controller Behavior
+### Unexpected Flight Controller Behavior
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -344,7 +344,7 @@ If ALTA X behaves unexpectedly, neutralize controls by centering the throttle/ya
 
 If the unexpected behavior occurred while in Manual mode, land as soon as possible and check ALTA X QGroundControl for any warnings.
 
-**Battery Exhaustion**
+### **Battery Exhaustion**
 
 If battery cell voltage is below Alarm Voltage \(all flight modes\)
 

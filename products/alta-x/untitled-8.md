@@ -117,8 +117,7 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
         <p>Place your batteries on the tray and secure them with the four battery
           straps.</p>
         <ul>
-          <li>See the <a href="untitled-3.md#battery">Appendix</a> for minimum battery
-            requirements.</li>
+          <li>See the <a href="untitled-3/#battery">Appendix</a> for minimum battery requirements.</li>
         </ul>
       </td>
       <td style="text-align:left"></td>
@@ -146,7 +145,7 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
       <td style="text-align:left">
         <p>Turn on your transmitter</p>
         <ul>
-          <li>Review the <a href="untitled-5.md#installation-of-futaba-radio">transmitter integration</a> section
+          <li>Review the <a href="untitled-5/#installation-of-futaba-radio">transmitter integration</a> section
             of this manual for a step by step guide to installing your transmitter
             if this has not been done</li>
         </ul>
