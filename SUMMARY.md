@@ -11,6 +11,7 @@
   * [Aircraft Setup](products/alta-x/untitled-7.md)
   * [Procedures](products/alta-x/untitled-6.md)
   * [Integrations](products/alta-x/untitled-5/README.md)
+    * [ADS-B Receiver](products/alta-x/untitled-5/ads-b-receiver.md)
     * [Isolator Cartridges](products/alta-x/untitled-5/isolator-cartridges.md)
     * [Skyview](products/alta-x/untitled-5/skyview.md)
     * [Radio Transmitters](products/alta-x/untitled-5/radio-transmitters.md)
