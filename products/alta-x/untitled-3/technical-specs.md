@@ -61,6 +61,14 @@
 | Maximum Payload | 15.9kg |
 | Typical Standard Empty Weight | 10.4 kg |
 
+## Environmental
+
+|  |  |
+| :--- | :--- |
+| Operating Temperature | -20C to +50C |
+| Operating Ceiling | \(Weight-dependent. See performance specs\) |
+| Ingress Protection | Tested to IP43 equivalent |
+
 ## Flight Controller
 
 |  |  |
