@@ -8,7 +8,7 @@
 
 ### Thrust to weight ratio
 
-| **Flight Time \(min\)** | **Payload \(lbs\)** | **Payload kg** | **Total Weight \(lbs\)** | **Thrust to Weight Ratio** |
+| **Flight Time \(min\)** | **Payload \(lbs\)** | **Payload \(kg\)** | **Total Weight \(lbs\)** | **Thrust to Weight Ratio** |
 | :---: | :---: | :---: | :---: | :---: |
 | 50 | 0 | 0 | 43.28 | 3.5 |
 | 41.7 | 5 | 2.3 | 48.28 | 3.1 |
