@@ -6,7 +6,7 @@
 
 ![](https://lh3.googleusercontent.com/WBztCTmAsgDK4HR1Ao7r3nvKdrD5B4wLEAKPVQMLUJ9spR9fa-cF1KbD9PjU1SvEp83Ws7bhesKLrEiGayghU6c1MLR8bJypQmKuOxamOoQDCSk3gYFnBZC0e2bBkawdvhBt4-rp)
 
-### 
+### Thrust to weight ratio
 
 | **Flight Time \(min\)** | **Payload \(lbs\)** | **Payload kg** | **Total Weight \(lbs\)** | **Thrust to Weight Ratio** |
 | :---: | :---: | :---: | :---: | :---: |
