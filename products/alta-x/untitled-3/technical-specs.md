@@ -5,8 +5,8 @@
 |  |  |
 | :--- | :--- |
 | Number of Motors | 4 |
-| Motor Max Continuous Power Output | 100 A |
-| Motor Max Instantaneous Peak Power Output | 130 A \(&gt;3s\) |
+| Motor Max Continuous Power | 17,760W  |
+| Motor Max Instantaneous Peak Power | 23,088W  \(&lt;3s\) |
 | Equivalent Kv | 115 rpm/V |
 
 ## Propellers
@@ -36,17 +36,17 @@
       <td style="text-align:left">44.4V</td>
     </tr>
     <tr>
-      <td style="text-align:left">Charged Battery Voltage</td>
+      <td style="text-align:left">Peak Battery Voltage</td>
       <td style="text-align:left">50.4V</td>
     </tr>
     <tr>
       <td style="text-align:left">Battery Connectors</td>
-      <td style="text-align:left">XT-90</td>
+      <td style="text-align:left">XT-90 Anti Spark</td>
     </tr>
     <tr>
       <td style="text-align:left">Required Minimum Battery Discharge Rating (Per Pack)</td>
       <td style="text-align:left">
-        <p>320 Amps per battery</p>
+        <p>260a per battery</p>
         <ul>
           <li>(assumes two batteries) 20C for a 16A-hr pack.</li>
         </ul>
@@ -57,9 +57,9 @@
 
 |  |  |
 | :--- | :--- |
-| Maximum Gross for Takeoff | 34.9kg |
+| Maximum Gross Takeoff Weight | 34.9kg |
 | Maximum Payload | 15.9kg |
-| Typical Standard Empty Weight | 10.4 kg |
+| Empty Weight | 10.4 kg |
 
 ## Environmental
 
@@ -73,7 +73,7 @@
 
 |  |  |
 | :--- | :--- |
-| Autopilot Name | Custom Auterion PX4 flight control stack |
+| Autopilot Name | Custom PX4 flight control stack |
 | Flight Modes | Manual, Altitude, Position, Mission, Loiter, Orbit, Return |
 | Supported Inputs | MAVlink SDK |
 | Supported Radios | Futaba, Spektrum, PX4 compatible SBUS and PPM receivers |
