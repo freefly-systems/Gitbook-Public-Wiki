@@ -81,12 +81,6 @@ ALTA X allows for the installation of a radio control system. S.Bus, S.Bus2, DSM
         alt/>
         </td>
     </tr>
-    <tr>
-      <td style="text-align:left">8.</td>
-      <td style="text-align:left">Repeat installation process for dual receivers (if applicable).</td>
-      <td
-      style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>## **Installation of Spectrum Radio**
 
