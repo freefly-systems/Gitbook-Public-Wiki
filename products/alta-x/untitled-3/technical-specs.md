@@ -53,7 +53,19 @@
       </td>
     </tr>
   </tbody>
-</table>## Weight
+</table>Battery Tray Dimensions
+
+![Minimum Battery Tray footprint](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-chrome-2019-12-17-15.57.56.png)
+
+![Maximum Battery Tray Footprint](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-5.png)
+
+![Minimum Skyview Battery Tray Footprint](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-7.png)
+
+![Maximum Skyview Battery Tray Footprint](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-9.png)
+
+![Maximum Height of Battery for Skyview Mounting](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-12.png)
+
+## Weight
 
 |  |  |
 | :--- | :--- |
