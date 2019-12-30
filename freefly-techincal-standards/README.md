@@ -1,2 +1,2 @@
-# Freefly Techincal Standards
+# Freefly Technical Standards
 

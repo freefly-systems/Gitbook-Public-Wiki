@@ -101,6 +101,6 @@
     * [Updating and Configuration](products/frx-pro/how-to-use/how-to-update.md)
   * [Troubleshooting](products/frx-pro/troubleshooting.md)
   * [Software Release Notes](products/frx-pro/software-release-notes.md)
-* [Freefly Techincal Standards](freefly-techincal-standards/README.md)
+* [Freefly Technical Standards](freefly-techincal-standards/README.md)
   * [Torque Specifications](freefly-techincal-standards/torque-specifications.md)
 
