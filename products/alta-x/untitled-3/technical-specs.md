@@ -120,42 +120,42 @@
 ## **Radio Specs**
 
 | Operating Frequency |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba  | 2.4 Ghz |
 | FRX Pro  | 900Mhz |
 | FPV TX | 5.8 Ghz |
 | RFD 900X | 900Mhz |
 
 | Max Transmitting Distance |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba | Varies on conditions |
 | FRX Pro | 1-2 Miles LOS |
 | FPV TX | TBD |
 | RFD 900X | 1-2 Miles LOS |
 
 | Power Supply |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba | DC - 6V HT5F18008 NIHM |
 | FRX Pro | Input 5-30v |
 | FPV TX | Up to 600mA |
 | RFD 900X | 5V |
 
 | Output Power \(max\) |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba | ± 0.52dBm |
 | FRX Pro | 10mW - 1W \(User adjustable\) |
 | FPV TX | 25mW \(up to 800mW with HAM license\*\) |
 | RFD 900X | 1W \(+30dBm\) |
 
 | USB Power Supply |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba | NA |
 | FRX Pro | 5V |
 | FPV TX | NA |
 | RFD 900X | 5V |
 
 | Operating Temperature |  |
-| :--- | :--- |
+| :--- | ---: |
 | Futaba | NA |
 | FRX Pro | -20 to 50C |
 | FPV TX | Normal Airflow |
