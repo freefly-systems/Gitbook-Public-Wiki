@@ -3,7 +3,7 @@
 ## Powerplant
 
 |  |  |
-| :--- | :--- |
+| :--- | ---: |
 | Number of Motors | 4 |
 | Motor Max Continuous Power | 17,760W  |
 | Motor Max Instantaneous Peak Power | 23,088W  \(&lt;3s\) |
@@ -12,7 +12,7 @@
 ## Propellers
 
 |  |  |
-| :--- | :--- |
+| :--- | ---: |
 | Material | Carbon Fiber Reinforced Nylon |
 | Propeller Orientation | \(2x\) CW and \(2x\) CCW Props |
 | Propeller Type | Folding - 840 x 230 mm \(33 x 9in\) |
@@ -23,29 +23,29 @@
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:right"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">Cells</td>
-      <td style="text-align:left">12S</td>
+      <td style="text-align:right">12S</td>
     </tr>
     <tr>
       <td style="text-align:left">Nominal Battery Voltage</td>
-      <td style="text-align:left">44.4V</td>
+      <td style="text-align:right">44.4V</td>
     </tr>
     <tr>
       <td style="text-align:left">Peak Battery Voltage</td>
-      <td style="text-align:left">50.4V</td>
+      <td style="text-align:right">50.4V</td>
     </tr>
     <tr>
       <td style="text-align:left">Battery Connectors</td>
-      <td style="text-align:left">XT-90 Anti Spark</td>
+      <td style="text-align:right">XT-90 Anti Spark</td>
     </tr>
     <tr>
       <td style="text-align:left">Required Minimum Battery Discharge Rating (Per Pack)</td>
-      <td style="text-align:left">
+      <td style="text-align:right">
         <p>260a per battery</p>
         <ul>
           <li>(assumes two batteries) 20C for a 16A-hr pack.</li>
@@ -68,7 +68,7 @@
 ## Weight
 
 |  |  |
-| :--- | :--- |
+| :--- | ---: |
 | Maximum Gross Takeoff Weight | 34.9kg |
 | Maximum Payload | 15.9kg |
 | Empty Weight | 10.4 kg |
@@ -76,7 +76,7 @@
 ## Environmental
 
 |  |  |
-| :--- | :--- |
+| :--- | ---: |
 | Operating Temperature | -20C to +50C |
 | Operating Ceiling | \(Weight-dependent. See performance specs\) |
 | Ingress Protection | Tested to IP43 equivalent |
@@ -84,7 +84,7 @@
 ## Flight Controller
 
 |  |  |
-| :--- | :--- |
+| :--- | ---: |
 | Autopilot Name | Custom PX4 flight control stack |
 | Flight Modes | Manual, Altitude, Position, Mission, Loiter, Orbit, Return |
 | Supported Inputs | MAVlink SDK |
