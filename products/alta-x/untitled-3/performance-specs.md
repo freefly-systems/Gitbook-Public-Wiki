@@ -35,3 +35,14 @@ The maximum gross weight at a defined density altitude was established by calcul
 Cells highlighted in yellow indicate where the weight is limited by the maximum design weight
 {% endhint %}
 
+| **Max Configurable Parameters** | \*\*\*\* |
+| :--- | ---: |
+| Max Angular Velocity | Configurable, default to 100 deg/s in manual mode |
+| Max Pitch Angle | Configurable, default to |
+| Max Ascent Speed \(by mode\) | Configurable, default to 6m/s in Position & Altitude Mode |
+| Max Descent Speed \(vertical \(by mode\) | Configurable, default to 4m/s down in Position & Alt Mode |
+| Max Speed \(by mode\) | Configurable, default to 20m/s in Position Mode |
+| Max Service Ceiling above Sea Level | Depends on payload, see "Maximum Gross Weight" chart |
+
+
+
