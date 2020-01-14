@@ -251,18 +251,76 @@ If replacing more than one boom, replace one at a time to reduce the chances of 
 
 Autopilot and system component firmware is updated via the USB expansion port on ALTA X located in the chassis closeout between booms 1 and 2. To update firmware download the latest FW files from the ALTA X Firmware page and follow the instructions below.
 
-|  |  |  |
-| :--- | :--- | :--- |
-| 1. | Download the latest ALTA X FW from the ALTA X Firmware page on the support website. |  |
-| 2. | Plug in a USB cable to your computer. Leave the other end unplugged from ALTA X for now. |  |
-| 3. | Remove the chassis closeout between Booms 1 and 2 to reveal the expansion board.  |  |
-| 4. | Hold down the USB MSC Button on the expansion board while plugging in the USB C to the expansion board on your ALTA. Your ALTA will show up in your file browser as a USB disk named FF-ALTA. | ![](../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.18.00.png) |
-| 5. | You should see a folder named 'freefly'. |  |
-| 6. | Replace the ‘freefly’ folder in the root of the drive with the new one downloaded from the Freeflysystems.com website. |  |
-| 7. | Unplug ALTA X from the USB and then apply USB power \(or battery power with the props removed\) while holding down the Boot button on the expansion board. | ![](../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.19.07.png) |
-| 8. | ALTA X should display blue solid or flashing lights on its motors to show it is updating its FW. Once complete the system will boot normally and display red and green directional lights on the motors. |  |
-
-{% hint style="info" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1.</td>
+      <td style="text-align:left">Download the latest ALTA X FW from the ALTA X Firmware page on the support
+        website.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2.</td>
+      <td style="text-align:left">Plug in a USB cable to your computer. Leave the other end unplugged from
+        ALTA X for now.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3.</td>
+      <td style="text-align:left">Remove the chassis closeout between Booms 1 and 2 to reveal the expansion
+        board.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4.</td>
+      <td style="text-align:left">Hold down the USB MSC Button on the expansion board while plugging in
+        the USB C to the expansion board on your ALTA. Your ALTA will show up in
+        your file browser as a USB disk named FF-ALTA.</td>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.18.00.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5.</td>
+      <td style="text-align:left">You should see a folder named &apos;freefly&apos;.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6.</td>
+      <td style="text-align:left">Replace the &#x2018;freefly&#x2019; folder in the root of the drive with
+        the new one downloaded from the Freeflysystems.com website.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7.</td>
+      <td style="text-align:left">
+        <p>Unplug ALTA X from the USB and then apply USB power (or battery power
+          with the props removed) while holding down the Boot button on the expansion
+          board.</p>
+        <p>Hold Boot button until motor boom lights start blinking blue.</p>
+      </td>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.19.07.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8.</td>
+      <td style="text-align:left">ALTA X should display blue solid or flashing lights on its motors to show
+        it is updating its FW. Once complete the system will boot normally and
+        display red and green directional lights on the motors.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>{% hint style="info" %}
 For troubleshooting, you can view details of the bootloading process by connecting to the GPS2 UART on the expansion connector with a USB to UART adapter and a cable using the dronecode/PX4 UART standard pinout. The UART settings are 57600 baud, 8-N-1.
 {% endhint %}
 
