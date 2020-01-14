@@ -256,8 +256,8 @@ Autopilot and system component firmware is updated via the USB expansion port on
 | 1. | Download the latest ALTA X FW from the ALTA X Firmware page on the support website. |  |
 | 2. | Plug in a USB cable to your computer. Leave the other end unplugged from ALTA X for now. |  |
 | 3. | Remove the chassis closeout between Booms 1 and 2 to reveal the expansion board.  |  |
-| 4. | Hold down the USB MSC Button on the expansion board while plugging in the USB C to the expansion board on ALTA Pro. Your ALTA will show up in your file browser as a USB disk named FF-ALTA. | ![](../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.18.00.png) |
-| 5. | You should see a folder named FF-ALTA. |  |
+| 4. | Hold down the USB MSC Button on the expansion board while plugging in the USB C to the expansion board on your ALTA. Your ALTA will show up in your file browser as a USB disk named FF-ALTA. | ![](../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.18.00.png) |
+| 5. | You should see a folder named 'freefly'. |  |
 | 6. | Replace the ‘freefly’ folder in the root of the drive with the new one downloaded from the Freeflysystems.com website. |  |
 | 7. | Unplug ALTA X from the USB and then apply USB power \(or battery power with the props removed\) while holding down the Boot button on the expansion board. | ![](../../.gitbook/assets/untitled-presentation-google-slides-google-chrome-2019-09-09-17.19.07.png) |
 | 8. | ALTA X should display blue solid or flashing lights on its motors to show it is updating its FW. Once complete the system will boot normally and display red and green directional lights on the motors. |  |
