@@ -92,12 +92,12 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
       <td style="text-align:left">5.</td>
       <td style="text-align:left">Note flight direction relative to motor positions and GPS. Arrow on GPS
         indicates forward flight direction.</td>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/altax-boomnumbers.jpg" alt/>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Batteries
+</table>![](../../.gitbook/assets/altax-boomnumbers.jpg)
+
+### Batteries
 
 <table>
   <thead>
