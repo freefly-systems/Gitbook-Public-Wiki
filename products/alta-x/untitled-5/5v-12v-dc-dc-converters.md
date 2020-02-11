@@ -17,6 +17,12 @@ The Freefly DC-DC converters draw power from the 50V battery bus and provide up 
 
 Note 1: Above ambient temperatures of 50C, some current/power derating will be necessary.
 
+{% hint style="info" %}
+The DC-DC converter output is isolated, so the "return" power connection is not tied to the AltaX ground. If you are connecting to a data link in AltaX \(such as UART\), you **must** run the ground line in the data connection \(ie. pin 6 in UART connection or pin 4 of CAN\).
+
+Failure to properly ground modules connected to the isolated DC-DC converters may result in spotty or non-functional connection.
+{% endhint %}
+
 ## Installation
 
 The converter mounts onto any unused closeout. Installation steps:
