@@ -8,7 +8,7 @@ ALTA X is designed to be as low-maintenance as possible. It is recommended to c
 
 #### Inspect Fastener Tightness
 
-Check the tightness of the following fasteners:
+Check the tightness of the following fasteners to verify no loose fasteners:
 
 * Motor mount bolts
 * Boom clamping bolts
@@ -66,6 +66,12 @@ To prevent excessive tightening and damaging the fastener or parts, twist the dr
 {% hint style="danger" %}
 Before performing any part replacement, ensure that ATLA X has been unplugged from any power source. Leaving ALTA X powered while performing any work on it can result in a potentially dangerous situation.
 {% endhint %}
+
+#### Fastener Torque Values
+
+![Torque Values for Installed Fasteners](../../.gitbook/assets/es_760-00186_assembly-torque-standard-google-docs-google-chrome-2020-02-12-10.26.40.png)
+
+![](../../.gitbook/assets/freefly-bolt-types-google-slides-google-chrome-2020-02-12-10.18.08.png)
 
 ### **Replacing ActiveBlade Bumpers**
 
