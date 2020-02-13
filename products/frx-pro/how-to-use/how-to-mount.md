@@ -32,7 +32,7 @@ description: How to mount FRX Pro
 #### Controller Side
 
 * For power, connect the other FRX Pro module to an external power supply, such as a V-Lock battery using the FRX Pro D-Tap Power cable.
-* For signal, connect the FRX to the MōVI Controller using the USB Cable provided in the kit.
+* For signal, connect the FRX Pro to the MōVI Controller using the USB Cable provided in the kit.
   * Ensure you have plugged the USB Cable into the bottom USB port on the MōVI Controller.
 
 ![](../../../.gitbook/assets/frx-manual-bom.ai_-100-rgb_gpu-preview-2019-06-20-12.39.46.png)
