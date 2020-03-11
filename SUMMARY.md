@@ -92,6 +92,8 @@
     * [Getting Started](products/m-vi-pro-series/blackjack/getting-started.md)
     * [What's New](products/m-vi-pro-series/blackjack/whats-new.md)
     * [360 Roll](products/m-vi-pro-series/blackjack/360-roll.md)
+  * [MōVI Controller](products/m-vi-pro-series/m-vi-controller/README.md)
+    * [Software Release Notes](products/m-vi-pro-series/m-vi-controller/software-release-notes.md)
 * [FRX Pro](products/frx-pro/README.md)
   * [Overview](products/frx-pro/overview/README.md)
     * [Introduction](products/frx-pro/overview/introduction.md)
