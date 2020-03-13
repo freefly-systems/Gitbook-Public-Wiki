@@ -231,7 +231,7 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../../.gitbook/assets/image%20%2812%29.png)
+</table>![](../../.gitbook/assets/image%20%2835%29.png)
 
 ### Replacing Booms
 
@@ -255,7 +255,7 @@ If replacing more than one boom, replace one at a time to reduce the chances of 
 
 ### Updating Firmware
 
-Autopilot and system component firmware is updated via the USB expansion port on ALTA X located in the chassis closeout between booms 1 and 2. To update firmware download the latest FW files from the ALTA X Firmware page and follow the instructions below.
+Autopilot and system component firmware is updated via the USB expansion port on ALTA X located in the chassis closeout between booms 1 and 2. To update firmware download the latest [FW files from the ALTA X Firmware page](https://freeflysystems.com/support/alta-x-support) and follow the instructions below.
 
 <table>
   <thead>

@@ -67,7 +67,7 @@ Before operating the RTK GPS, you should have the following:
       <td style="text-align:left">Open RTK status window and press &quot;Restart&quot; button to initiate
         survey-in.</td>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (16).png" alt/>
+        <img src="../../.gitbook/assets/image (20).png" alt/>
       </td>
     </tr>
     <tr>
