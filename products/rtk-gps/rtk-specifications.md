@@ -25,7 +25,13 @@
     * UART \(4.7 to 25.2V\)
   * Power Consumption &lt;1W
 
+## RTK Performance over range
 
+The performance of RTK over long distances is typically limited by:
+
+* Telemetry link: You must have a telemetry link between the aircraft and ground station,
+* RTK degradation over distance: As the aircraft moves away from the base station, the RTK accuracy will degrade. The F9P RTK GPS receiver spec is 0.01m CEP \(Circular Error Probability\) + 1ppm for both vertical and horizontal.
+  * For example, at 10km distance from base station, the typical accuracy would be  0.01m + \(1km \* 1/1,000,000\) = 0.02m CEP
 
 ## Mechanical Dimensions
 
