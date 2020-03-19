@@ -2,11 +2,17 @@
 
 
 
-### **v4.2.0** 
+### **Compatibility**
 
 {% hint style="warning" %}
-v4.1.4 or above no longer supports MōVI M5/10/15
+MōVI **M5/10/15** is compatible with MōVI Controller firmware **v4.1.3 or below**
+
+MōVI **Pro/XL/Carbon** is compatible with **all** MōVI Controller firmware **versions**
 {% endhint %}
+
+### \*\*\*\*
+
+### **v4.2.0** 
 
 * **Bugfix:** FIZ range limits were sometimes getting set randomly. This was causing it to look like a FIZ axis was getting stuck or locked.
 * **Bugfix:** Movi Controller was occasionally sending corrupt gimbal commands, causing Movi to briefly twitch or reset its FIZ values
