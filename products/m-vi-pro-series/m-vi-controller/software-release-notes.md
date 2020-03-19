@@ -7,7 +7,7 @@
 {% hint style="warning" %}
 MōVI **M5/10/15** is compatible with MōVI Controller firmware **v4.1.3 or below**
 
-MōVI **Pro/XL/Carbon** is compatible with **all** MōVI Controller firmware **versions**
+MōVI **Pro/XL/Carbon** is compatible with MōVI Controller firmware **v3.0.1 or above**
 {% endhint %}
 
 ### \*\*\*\*
