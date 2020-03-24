@@ -4,8 +4,6 @@ description: FRX Pro Software Release Notes
 
 # Software Release Notes
 
-## 
-
 ## v1.1.0 Release Package
 
 * **Summary**: Added support for ALTA X.
