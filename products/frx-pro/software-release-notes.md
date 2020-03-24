@@ -8,10 +8,15 @@ description: FRX Pro Software Release Notes
 
 ## v1.1.0 Release Package
 
-* **Summary**: Added support for ALTA X. Updating firmware is not necessary if you bought FRX Pro for your MōVI.
+* **Summary**: Added support for ALTA X.
+
+{% hint style="info" %}
+Updating firmware is not necessary if you bought FRX Pro for your MōVI.
+{% endhint %}
+
 * **Release Date**: September 2019
 * **Versions in this package**: 
-  * FRX Pro firmware version 1.0.9
+  * FRX Pro firmware version 1.0.12
   * Configurator \(Max + Windows\) version v1.1.0
 * **Notes**:
   * Firmware:

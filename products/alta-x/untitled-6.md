@@ -161,9 +161,7 @@ For information on installing isolator cartridges and setting up payload mountin
       <td style="text-align:left">ALTA X QGroundControl</td>
       <td style="text-align:left">
         <p>
-          <br />
-        </p>
-        <p>CONNECT
+          <br />CONNECT
           <br />
         </p>
         <p>VERIFY NO WARNINGS
