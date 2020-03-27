@@ -6,11 +6,13 @@ description: >-
 
 # Testing and Certification
 
-Testing Philsophy 
+### Testing Philsophy 
 
+The team at Freefly comes from a cinema background and spent the first decade of their career onset filming in some of the most demanding circumstances available.  It was from this period and all the failures we endured \(at the worst times\) that we developed the testing philsophy that drives Freefly today. 
 
+We like to test early, test frequently, and test harder than any of our customers will.  We push our drones and gimbals to the limits \(and often destroy them\) in order to make sure you can rely on them when time is short and the light is beautiful.  
 
-Freefly typically follows an Engineering workflow with the following stages
+Freefly typically follows an product development workflow with the following stages.  We have developed this process over the last decade to help ensure adequate effort goes into each product we build at each of the critical stages of development. 
 
 ### Mule / Prototype
 
