@@ -21,7 +21,7 @@
     * [MoVI Carbon](products/alta-x/untitled-5/movi-carbon.md)
     * [5V/12V DC-DC Converters](products/alta-x/untitled-5/5v-12v-dc-dc-converters.md)
   * [Maintenance](products/alta-x/untitled-4.md)
-  * [Testing](products/alta-x/testing/README.md)
+  * [Testing and Certification](products/alta-x/testing/README.md)
     * [Test Documentation](products/alta-x/testing/test-documentation.md)
     * [Manufacturing Workflow](products/alta-x/testing/manufacturing-workflow.md)
     * [Flight Testing](products/alta-x/testing/flight-testing.md)

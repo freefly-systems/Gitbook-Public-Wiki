@@ -4,7 +4,7 @@ description: >-
   performs to spec
 ---
 
-# Testing
+# Testing and Certification
 
 Freefly typically follows an Engineering workflow with the following stages
 
