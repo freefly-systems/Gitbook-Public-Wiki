@@ -6,6 +6,10 @@ description: >-
 
 # Testing and Certification
 
+Testing Philsophy 
+
+
+
 Freefly typically follows an Engineering workflow with the following stages
 
 ### Mule / Prototype
