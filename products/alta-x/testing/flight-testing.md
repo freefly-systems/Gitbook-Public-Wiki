@@ -6,6 +6,10 @@ For these test the team at Freefly pushed the Alta X harder than we think a cust
 
 Freefly also leveraged a small group of external beta testers during this phase to ensure they were pleased with the Alta X performance.  We did have a difficult time getting the test machines back from several of these testers \(Ahem Pat Weir\) 😂
 
+{% embed url="https://www.youtube.com/watch?v=h8xbN-vqRbs" %}
+
+
+
 
 
 
