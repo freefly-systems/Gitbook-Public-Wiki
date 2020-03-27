@@ -24,6 +24,7 @@
   * [Testing](products/alta-x/testing/README.md)
     * [Test Documentation](products/alta-x/testing/test-documentation.md)
     * [Manufacturing Workflow](products/alta-x/testing/manufacturing-workflow.md)
+    * [Flight Testing](products/alta-x/testing/flight-testing.md)
   * [Appendix](products/alta-x/untitled-3/README.md)
     * [Technical Specs](products/alta-x/untitled-3/technical-specs.md)
     * [Performance Specs](products/alta-x/untitled-3/performance-specs.md)
