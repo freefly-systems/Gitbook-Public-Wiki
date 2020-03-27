@@ -12,6 +12,12 @@ The team at Freefly comes from a cinema background and spent the first decade of
 
 We like to test early, test frequently, and test harder than any of our customers will.  We push our drones and gimbals to the limits \(and often destroy them\) in order to make sure you can rely on them when time is short and the light is beautiful.  
 
+We sweat the details so you don't have to! 
+
+{% embed url="https://vimeo.com/358966601" %}
+
+## Product Development Process
+
 Freefly typically follows an product development workflow with the following stages.  We have developed this process over the last decade to help ensure adequate effort goes into each product we build at each of the critical stages of development. 
 
 ### Mule / Prototype
