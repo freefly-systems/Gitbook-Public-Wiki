@@ -21,6 +21,7 @@
     * [MoVI Carbon](products/alta-x/untitled-5/movi-carbon.md)
     * [5V/12V DC-DC Converters](products/alta-x/untitled-5/5v-12v-dc-dc-converters.md)
   * [Maintenance](products/alta-x/untitled-4.md)
+  * [Testing](products/alta-x/testing.md)
   * [Appendix](products/alta-x/untitled-3/README.md)
     * [Technical Specs](products/alta-x/untitled-3/technical-specs.md)
     * [Performance Specs](products/alta-x/untitled-3/performance-specs.md)
@@ -135,6 +136,6 @@
     * [Advanced Configuration \(Parameter List\)](products/motor-drives/arc-gui/advanced-configuration-parameter-list.md)
   * [API](products/motor-drives/api.md)
   * [Motor Drive FAQ's and Common Problems](products/motor-drives/motor-drive-faqs-and-common-problems.md)
-* [Freefly Technical Standards](freefly-techincal-standards/README.md)
-  * [Torque Specifications](freefly-techincal-standards/torque-specifications.md)
+* [Freefly Technical Standards](products/freefly-techincal-standards/README.md)
+  * [Torque Specifications](products/freefly-techincal-standards/torque-specifications.md)
 

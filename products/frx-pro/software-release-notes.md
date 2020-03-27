@@ -23,8 +23,6 @@ Updating firmware is not necessary if you bought FRX Pro for your MōVI.
     * New: Added separate configuration defaults for use with Movi and ALTA
     * Bugfix: Some text fields were hidden in Mac when Dark Mode is enabled
 
-
-
 ## v1.0.0 Release Package
 
 * **Summary**: This is the initial release of FRX Pro
@@ -33,12 +31,5 @@ Updating firmware is not necessary if you bought FRX Pro for your MōVI.
   * FRX Pro firmware version 1.0.9
   * Configurator \(Max + Windows\) version v1.1.0
 * **Notes**:
-
   * Initial release!
-
-
-
-
-
-
 
