@@ -35,6 +35,16 @@ Under some conditions, ALTA will automatically disarm
 | Ground timeout after flight | If ALTA has been previously flown but not power cycled, after 5 seconds idling armed on the ground, it will automatically disarm. This timeout can be changed in parameter COM\_DISARM\_LAND \(units are in seconds, a value of “0” disables this timeout entirely\). |
 | Autoland | If ALTA detects landing in Autoland mode, it will disarm after 5 seconds following the logic above. See section “[Landing Modes](untitled-7.md#landing-modes)” for more information on the Landing Detector feature. |
 
+
+
+
+
+
+
+
+
+
+
 ## Flight Modes
 
 ALTA X has three primary flight control modes which are selected using the Mode Switch: Manual Mode, Altitude Mode, and Position Mode. ALTA X also has two emergency control modes, Return-to-Land and Autoland, which are available only during certain situations. For additional information, refer to the sub-section associated with each [emergency control mode](../alta-8-pro/emergency-procedures/).
@@ -109,6 +119,16 @@ The RTL switch on the radio will override all other modes, and prevent any mode 
 Ensure that the RTL switch is OFF before takeoff.
 {% endhint %}
 
+
+
+
+
+
+
+
+
+
+
 ## Landing Modes
 
 It is suggested that the operator lands in Manual mode, as it offers the most control for a precise touchdown. However it is possible to land in Altitude and Position modes as well. The aircraft behaves a little differently in each mode:
@@ -133,6 +153,69 @@ It is possible to command the aircraft to autoland, as described above. It is no
 If the aircraft tips over with the props running, ALWAYS power cycle the aircraft before attempting takeoff again. If the motors or props hit the ground, they may not start on next arm and cause it to tip again.
 {% endhint %}
 
+
+
+
+
+
+
+
+
+
+
+## RC Disarm lockout
+
+Introduced in FW 1.3.0, users can now configure a switch on their transmitter that, when enabled, will prevent manual disarm. Currently, users can disarm the aircraft in manual mode by holding the throttle all the way at zero, and the yaw stick all the way left for 1.5 seconds. In some cases, such as aggressive flying, this could happen inadvertently in flight, causing an inflight disarm and crash.
+
+This feature only prevents disarming via RC command. Disarm via Alta QGroundControl still works the same, and an inflight disarm can still be forced through that interface. That mechanism requires a second confirmation step, so it is not able to be accidentally triggered.
+
+### Configuration
+
+To configure, follow these steps while connected to the aircraft with Alta QGroundControl:
+
+1. On the radio screen, toggle the switch that you want to act as the disarm lockout. Note on the channel list which channel number is changing when the switch is toggled. 
+2. Using the parameter screen, set RC\_MAP\_ARMLK\_SW to the RC channel found in step 1.
+3. Restart the aircraft
+4. Test functionality, as described in the use section below. It is recommended to always test it before takeoff.
+
+### Use
+
+Before every takeoff, it is advisable to test the operation of the switch while idling on the ground to ensure it is functioning. Follow these steps:
+
+1. Set to manual mode
+2. Set disarm lockout switch to OFF
+3. Arm the aircraft, keeping throttle at minimum, idling on the ground with props spinning.
+4. Set the disarm lockout switch to ON
+5. Attempt to disarm the aircraft. It should not disarm, and a warning in Alta QGroundControl will show indicating that disarm was blocked by the switch.
+6. Takeoff and fly mission
+7. Land
+8. Set disarm lockout switch to OFF
+9. Disarm aircraft as normal
+
+Note that to prevent confusion, the lockout switch must be set to OFF for the aircraft to arm also.
+
+### Troubleshooting
+
+**Switch reversed** - If the behavior of the switch is reversed it can be corrected by reversing the switch output on the transmitter, or by setting parameter RC&lt;channel&gt;\_REV to -1, where &lt;channel&gt; is the RC channel number for the switch in question. For example, to reverse channel 8, set RC8\_REV=-1
+
+**Threshold** - The switch usually maps between 0 and 1. The default threshold is set to 0.75, so that on a 3 position switch, lockout is not enabled until all the way in the 3rd position. If this needs to be adjusted, it is set by the parameter RC\_ARMLK\_TH
+
+{% hint style="danger" %}
+If the aircraft crashes or otherwise needs to be disarmed quickly, do not forget to toggle the lockout switch to allow disarming.
+
+The aircraft can also be emergency disarmed using Alta QGroundControl over the radio link. Select ARM at the top and then it will ask for a swipe to confirm in a box labeled "EMERGENCY STOP". WARNING: This will stop the motors immediately, even if flying.
+{% endhint %}
+
+
+
+
+
+
+
+
+
+
+
 ## Important Parameters
 
 | Parameter | Function |
@@ -146,6 +229,16 @@ If the aircraft tips over with the props running, ALWAYS power cycle the aircraf
 | MPC\_XY\_CRUISE | Defines the default waypoint speed, as well as the RTL speed. This can be increased up to 20m/s, however it is suggested to set waypoint velocity separately for missions. If setting this high and commanding slow waypoint velocities may result in the aircraft slowing down too far in advance of a waypoint. |
 | \*\_EXPO | Controls stick expo in different modes, can be used to adjust the feel of the aircraft while flying. More expo will require more stick input to get the same angle or speed when near zero stick, and will increase rapidly to maximum once the stick is at higher deflections. |
 | MPC\_Z\_VEL\_MAX\_\(_UP/DN\)_ | Controls maximum climb and descent velocities in altitude, position and waypoint modes. |
+
+
+
+
+
+
+
+
+
+
 
 ## Mission Planning
 
@@ -176,6 +269,16 @@ Detailed waypoint list can be used to give commands at each waypoint. Command me
 
 The Flight Speed variable inside the detailed waypoint list assigns a speed value that will be executed after vehicle passes the waypoint. For example, if default Flight Speed is set to 5 m/s and it is re-set to 20 m/s at third waypoint, vehicle will start to increase its speed from 5 m/s to 20 ms/ as soon as it passes waypoint three. So the target flight speed between waypoint 3 and waypoint 4 will be 20 m/s. Unless flight speed is reset back to 5 m/s at waypoint 4, 20 m/s value will be passed to rest of the waypoints. 
 
+
+
+
+
+
+
+
+
+
+
 ## Tuning
 
 ALTA X is pretuned by Freefly, and can be flown without changes. However, each user may have a different preference or use case for their aircraft. This section gives some guidance for how to tune some of the behaviors of the aircraft to suit individual needs. It is NOT recommended to tune low-level control parameters, as they could cause instability or control issues which could result in a crash.
@@ -192,6 +295,16 @@ ALTA X is pretuned by Freefly, and can be flown without changes. However, each u
 {% hint style="info" %}
 Loading the defaults or known-good presets will allow you to quickly return functional ALTA X if there is ever uncertainty about changes to the tuning properties.
 {% endhint %}
+
+
+
+
+
+
+
+
+
+
 
 ## Sensor Calibration
 
@@ -371,6 +484,16 @@ Follow the instructions below to perform a level horizon calibration on ALTA X. 
 | 2. | Place the vehicle in its level flight orientation on a level surface. |
 | 3. | Click OK to start the calibration. |
 
+
+
+
+
+
+
+
+
+
+
 ## GPS Lights
 
 The GPS module includes multi-color LED status lights that provide extra indication of aircraft status on the ground.
@@ -455,7 +578,17 @@ The GPS module includes multi-color LED status lights that provide extra indicat
         configuration.</td>
     </tr>
   </tbody>
-</table>## WIFI and FRX Connectivity
+</table>
+
+
+
+
+
+
+
+
+
+## WIFI and FRX Connectivity
 
 ALTA X provides two main connectivity methods for wireless telemetry: WIFI for short range, FRX Pro \(optional\) for long range. The wireless connectivity allows users to define parameters, monitor ALTA and configure missions.
 

@@ -8,8 +8,8 @@
   * FMU: v1.3.x
   * QGroundControl: v1.3.x
 * **Notes**:
-  * New Feature: F9P RTK GPS Support
-  * New Feature: Optional disarm toggle to prevent manual disarm in flight
+  * New Feature: [F9P RTK GPS Support](../rtk-gps/)
+  * New Feature: Optional [RC disarm toggle](untitled-7.md#rc-disarm-lockout) to prevent manual disarm in flight
   * New Feature: Onboard checking of critical parameters
   * Bugfix: LEDs on ALTA X place a significant load on the 5V EXT bus
   * Improvement: Check for RTL switch enable before takeoff, warn if no homepoint
