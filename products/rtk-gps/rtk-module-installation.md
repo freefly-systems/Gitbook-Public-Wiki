@@ -191,12 +191,7 @@ Note: You must be running Alta SW 1.3 or above for RTK GPS operation
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left">In the &quot;Standard&quot; group, select &quot;Serial&quot;</td>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../../.gitbook/assets/image (41).png" alt/>
-        </p>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
