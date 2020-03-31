@@ -20,7 +20,7 @@ description: >-
   * Movi Controller \(MC\) will need to be on v4.1.3 or above with this package
 * Get the latest software for fixes and improvements
   * iOS v2.0.2 includes Carbon firmware v2.0.16. Get it [here](https://testflight.apple.com/join/fyEOSVh6)
-  * Movi Controller firmware v4.1.7 includes the “Reset Accel” feature \(see below\). Get it [here](https://freeflysystems.com/support/movi-pro-support/beta)
+  * Movi Controller firmware v4.1.7 includes the “Reset Accel” feature \(see below\). [Get it here](https://freeflysystems.com/support/movi-controller-support)
 * Carbon does not need to be autotuned and then gains / filters do not normally need any adjustment
 * If you run a window of &lt; 4 on the MC you will start to see joystick noise in the image
   * Additionally, if you are using FRX Pro on the MC, make sure that it is getting power from an external power supply, as noted in the Using FRX Pro section of the [wiki](https://freefly.gitbook.io/freefly-public/products/frx-pro/how-to-use/how-to-mount#frx-pro-wiring).
