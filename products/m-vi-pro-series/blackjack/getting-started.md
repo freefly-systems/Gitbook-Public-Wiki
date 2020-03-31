@@ -20,9 +20,9 @@ For instance, v2.0 GCU is not fully compatible with v1.5 MIMIC. So, if you plan 
 |                     TSU I/O | 2.0.1/1.0.0 | 1.6.5/1.1.0 |
 |                     ESC | 1.0.2 | 1.0.2 |
 | MIMIC | 2.0.3 | 1.5.1 |
-| MōVI Controller | 4.1.3 | 3.7.2 |
+| MōVI Controller | 4.2.0 | 4.2.0 |
 | MōVI Pro App   iOS | 2.0.1 | 1.5.x |
-|                     Android | 2.0.1 | 1.5.x |
+|                     Android | 2.0.3 | 1.5.x |
 
 ## Firmware Updates
 
