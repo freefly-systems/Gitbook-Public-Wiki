@@ -99,6 +99,7 @@
     * [360 Roll](products/m-vi-pro-series/blackjack/360-roll.md)
   * [MōVI Controller](products/m-vi-pro-series/m-vi-controller/README.md)
     * [Software Release Notes](products/m-vi-pro-series/m-vi-controller/software-release-notes.md)
+  * [Technical Drawings and CAD](products/m-vi-pro-series/technical-drawings-and-cad.md)
 * [FRX Pro](products/frx-pro/README.md)
   * [Overview](products/frx-pro/overview/README.md)
     * [Introduction](products/frx-pro/overview/introduction.md)

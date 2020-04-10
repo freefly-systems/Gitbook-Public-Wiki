@@ -49,3 +49,5 @@
 
 [STEP file for Chassis Lower](https://www.dropbox.com/s/j8s0gfmu2h45wrt/445-00197ChassisLower-REVF.STEP?dl=0)
 
+CAD files for Movi Pro can be found in this section
+
