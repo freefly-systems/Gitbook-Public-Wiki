@@ -47,5 +47,5 @@
 
 {% file src="../../.gitbook/assets/alta-x-lower-chassis-hole-pattern-guide.pdf" caption="Chassis Lower Mounting Patterns" %}
 
-[STEP file for Chassis Lower](https://www.dropbox.com/s/sa6p63mqf3sks0a/445-00197%20Chassis%20Lower%20-%20REV%20F.STEP?dl=0)
+[STEP file for Chassis Lower](https://www.dropbox.com/s/j8s0gfmu2h45wrt/445-00197ChassisLower-REVF.STEP?dl=0)
 
