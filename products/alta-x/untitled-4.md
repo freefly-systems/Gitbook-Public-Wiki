@@ -191,15 +191,16 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
     <tr>
       <td style="text-align:left">2.</td>
       <td style="text-align:left">
-        <p>Remove the following fasteners:</p>
+        <p>Remove the following fasteners (reference drawing below):</p>
         <ol>
           <li>(x4) M4x16 Combo - which secure the boom stays to the boom</li>
-          <li>(x4) M3x10 FHCS - which secure the closeout panels</li>
           <li>(x4) M3x10 Combo - which secure the closeout panels</li>
-          <li>(x2) M3x10 Combo - which secure the battery connector mount</li>
+          <li>(x4) M3x10 Combo - which secure the battery connector mount</li>
           <li>(x2) M3x10 Combo - which secure the center ring</li>
           <li>(x4) M4x14 Combo - which secure the center ring</li>
-          <li>Remaining M4 bolts that secure the top chassis to each hinge</li>
+          <li>(x4) M3x10 SHCS - which secure the battery tray and latch mount</li>
+          <li>Remaining M4 bolts that secure the top chassis to each hinge. See detail
+            in drawing below. Note: There are 3 different length M4 bolts in this area.</li>
         </ol>
       </td>
       <td style="text-align:left"></td>
@@ -230,8 +231,13 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       <td
       style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
-</table>![](../../.gitbook/assets/image%20%2835%29.png)
+</table>![Fasteners as defined in step 2 above](../../.gitbook/assets/altax-screw-sizes-powerpoint-2020-05-20-11.00.43.png)
 
 ### Replacing Booms
 

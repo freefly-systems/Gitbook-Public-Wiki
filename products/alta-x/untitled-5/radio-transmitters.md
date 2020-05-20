@@ -180,7 +180,7 @@ _**Spektrum DX18**_
 | Mode Switch | 6 | Reverse |
 | Home Switch | 7 | Normal |
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%286%29%20%281%29.png)
 
 ## 
 

@@ -18,7 +18,7 @@ When not using RTK, it is recommended you return the EKF2\_HGT\_MODE to "Baromet
 Setting EKF Height Mode to GPS is only recommended when flying in RTK mode. In non-RTK mode \(or with a normal GPS\), the baro will provide much better height accuracy.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## Ground Station RTK Configuration
 
@@ -49,7 +49,7 @@ To change the parameters, perform the following steps:
       <td style="text-align:left">
         <p>Click on QGC logo, then &quot;General&quot; Button</p>
         <p>
-          <img src="../../.gitbook/assets/image (26).png" alt/>
+          <img src="../../.gitbook/assets/image (22) (1).png" alt/>
         </p>
       </td>
     </tr>
