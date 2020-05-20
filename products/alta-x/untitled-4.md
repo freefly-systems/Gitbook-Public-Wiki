@@ -232,7 +232,7 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![Fasteners as defined in step 2 above](../../.gitbook/assets/altax-screw-sizes-powerpoint-2020-05-20-11.00.43.png)
+</table>![](../../.gitbook/assets/altax-screw-sizes-powerpoint-2020-05-20-11.27.39.png)
 
 ### Replacing Booms
 
