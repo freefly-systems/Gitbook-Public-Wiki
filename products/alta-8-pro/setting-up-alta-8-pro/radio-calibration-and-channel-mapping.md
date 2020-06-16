@@ -35,7 +35,9 @@ Calibrating any compatible radio is done using the ALTA Pro QGroundControl app. 
     </tr>
   </thead>
   <tbody></tbody>
-</table>*  Set the transmitter mode radio button that matches your radio configuration \(this ensures that QGroundControl displays the correct stick positions for you to follow during calibration\).
+</table>
+
+*  Set the transmitter mode radio button that matches your radio configuration \(this ensures that QGroundControl displays the correct stick positions for you to follow during calibration\).
 *  Move the sticks to the positions indicated in the text \(and on the radio image\). Press Next when the sticks are in position. Repeat for all positions.
 *  When prompted, move all other switches and dials through their full range \(you will be able to observe them moving on the Channel Monitor\). 
 * Press Next to save the settings. 

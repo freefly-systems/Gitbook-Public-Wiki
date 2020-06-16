@@ -394,7 +394,9 @@ If the payload is causing enough corruption that calibrating with it on does not
       <td style="text-align:center"></td>
     </tr>
   </tbody>
-</table>### Compass Calibration
+</table>
+
+### Compass Calibration
 
 Follow the instructions below to perform a compass calibration on ALTA X. Compass calibrations should be done when flying in a new location or when ALTA QGroundControl prompts a calibration.
 
@@ -438,7 +440,9 @@ Follow the instructions below to perform a compass calibration on ALTA X. Compas
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Accelerometer Calibration
+</table>
+
+### Accelerometer Calibration
 
 Follow the instructions below to perform an accelerometer calibration on ALTA X. Accelerometer calibrations should only be done when prompted by ALTA QGroundControl.
 
@@ -474,7 +478,9 @@ Follow the instructions below to perform an accelerometer calibration on ALTA X.
       </td>
     </tr>
   </tbody>
-</table>### Level Horizon Calibration
+</table>
+
+### Level Horizon Calibration
 
 Follow the instructions below to perform a level horizon calibration on ALTA X. Horizon calibrations should only be done if the horizon \(as shown in the HUD\) is not level after completing Accelerometer calibration and the aircraft is sitting on a level surface.
 
@@ -588,6 +594,8 @@ The GPS module includes multi-color LED status lights that provide extra indicat
 
 
 
+
+
 ## WIFI and FRX Connectivity
 
 ALTA X provides two main connectivity methods for wireless telemetry: WIFI for short range, FRX Pro \(optional\) for long range. The wireless connectivity allows users to define parameters, monitor ALTA and configure missions.
@@ -689,7 +697,9 @@ When flying multiple aircraft with WiFi enabled, take extreme caution to ensure 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>#### Configure WIFI settings
+</table>
+
+#### Configure WIFI settings
 
 {% hint style="danger" %}
 ALTA X passwords must be longer than eight characters and should be unique for each ALTA X. Do not use the same password on multiple machines!
@@ -746,7 +756,9 @@ The optional FRX Pro long range radio provides telemetry and aircraft control ou
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>#### Binding FRX Pro
+</table>
+
+#### Binding FRX Pro
 
 ![](../../.gitbook/assets/untitled-2.jpg)
 
@@ -799,7 +811,9 @@ The optional FRX Pro long range radio provides telemetry and aircraft control ou
       <td style="text-align:left">Repeat the binding steps above if a binding attempt fails.</td>
     </tr>
   </tbody>
-</table>{% hint style="info" %}
+</table>
+
+{% hint style="info" %}
 FRX Pros configured for use in non-ALTA products \(ie, Mōvi\) need to be reconfigured before they can be used in ALTA. Please contact Freefly for instructions to reconfigure the radios. The symptom for mis-configured radios is that only one radio shows a Green LED and rebinding does not reestablish communications.
 {% endhint %}
 

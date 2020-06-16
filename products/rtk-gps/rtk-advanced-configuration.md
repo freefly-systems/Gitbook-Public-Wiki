@@ -69,7 +69,9 @@ To change the parameters, perform the following steps:
       <td style="text-align:left">Restart Alta Ground Control Station to apply settings</td>
     </tr>
   </tbody>
-</table>## Default PX4 Configuration with RTK GPS
+</table>
+
+## Default PX4 Configuration with RTK GPS
 
 The RTK module serial port is configured for 115kbaud. PX4 may not be able to automatically set to this baudrate, so it is recommended to set the parameter "SER\_GPS1\_BAUD" to 115200 8N1 to ensure reliable GPS communication.
 

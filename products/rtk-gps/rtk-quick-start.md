@@ -121,7 +121,9 @@ Before operating the RTK GPS, you should have the following:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>{% hint style="info" %}
+</table>
+
+{% hint style="info" %}
 Any time you move the base station GPS, it is recommended that you manually restart survey-in by clicking on the "Restart" button. This ensures that the base station updates its location and provides optimal absolute positioning.
 {% endhint %}
 

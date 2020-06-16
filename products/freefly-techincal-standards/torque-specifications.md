@@ -374,7 +374,9 @@ All torques are listed as **Nm**
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Plastite Thread Forming Fasteners
+</table>
+
+### Plastite Thread Forming Fasteners
 
 * Clamped Material \(Assumes threaded material is PA6 nylo,  30% glass filled, 1000rpm installation speed
 

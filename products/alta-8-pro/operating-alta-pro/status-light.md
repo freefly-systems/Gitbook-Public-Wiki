@@ -112,3 +112,4 @@ The rear-facing Status Light shows the status of ALTA Pro as it boots, arms, and
     </tr>
   </tbody>
 </table>
+

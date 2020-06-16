@@ -24,7 +24,9 @@ To enable WiFi connectivity follow the steps below!
     </tr>
   </thead>
   <tbody></tbody>
-</table>ALTA Pro allows users to update the system’s WiFi password and SSID. All ALTA Pro’s initially come with WiFi disabled for safety reasons.
+</table>
+
+ALTA Pro allows users to update the system’s WiFi password and SSID. All ALTA Pro’s initially come with WiFi disabled for safety reasons.
 
 ![](https://lh3.googleusercontent.com/bJqstRP1ScKyHADIpaOq1AviPOFIrb9eqH5ZY1ESIfvkg4fNMCDDZEZ3iHedscmUwXgYR12dsGod-Vrb605_v3MCJ9tykH4NEg0adrxZHnTwe0ifNnlnTs3YBnRY1_dhd5v-GGuS)
 

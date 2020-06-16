@@ -52,7 +52,9 @@ description: Definitions for common terminology
       </td>
     </tr>
   </tbody>
-</table>## **Power Terminology**
+</table>
+
+## **Power Terminology**
 
 | Term | Definition |
 | :--- | :--- |
@@ -107,7 +109,9 @@ description: Definitions for common terminology
       </td>
     </tr>
   </tbody>
-</table>## **Weight and Balance**
+</table>
+
+## **Weight and Balance**
 
 | Term | Definition |
 | :--- | :--- |

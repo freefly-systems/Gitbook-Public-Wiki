@@ -57,7 +57,9 @@ The ALTA Pro QGroundControl App will be actively maintained, and additional func
     </tr>
   </thead>
   <tbody></tbody>
-</table>900/868 MHz Radio
+</table>
+
+900/868 MHz Radio
 
 ALTA Pro makes use of a 900/868MHz radio to increase the communication range between the ALTA Pro and laptop ground station. This allows users to monitor, update, and reroute ALTA’s while up in the air or on the move.
 
@@ -186,7 +188,9 @@ ALTA Pro makes use of a 900/868MHz radio to increase the communication range bet
       </td>
     </tr>
   </tbody>
-</table>## **ALTA Pro Specific QGroundControl Features**
+</table>
+
+## **ALTA Pro Specific QGroundControl Features**
 
 ### **Tuning Parameters**
 

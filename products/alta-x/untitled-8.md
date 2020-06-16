@@ -95,7 +95,9 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../../.gitbook/assets/altax-boomnumbers.jpg)
+</table>
+
+![](../../.gitbook/assets/altax-boomnumbers.jpg)
 
 ### Batteries
 
@@ -131,7 +133,9 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Fly
+</table>
+
+### Fly
 
 <table>
   <thead>
@@ -213,4 +217,6 @@ ALTA X can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pack
     </tr>
   </tbody>
 </table>
+
+
 

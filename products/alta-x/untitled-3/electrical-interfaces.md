@@ -31,7 +31,9 @@ The external communications expansion port is located between booms 1 and 2 on t
       </td>
     </tr>
   </tbody>
-</table>#### 5V External Power
+</table>
+
+#### 5V External Power
 
 The external expansion connector port 5V power is provided by a dedicated 5V 3A current limited power supply separate of the redundant 5V power supplies for the flight controller. Each output on the external expansion connectors is protected by a 1.1A hold 2.2A trip PTC \(Part number 0ZCG0110FF2C\). The sum of the power supplying the following components must be less than 3A:
 
@@ -155,5 +157,7 @@ Every Alta X comes with a cable pre-installed to attach the FPV video transmissi
       <td style="text-align:left">ORANGE</td>
     </tr>
   </tbody>
-</table>Note: The Freefly-provided FPV system powers the camera via the 5V-passthrough at the VTX. If the customer wants to install their own VTX that does not provide a 5v-passthrough, it is necessary to power the camera directly from the 5V pin \(Pin 3\). This can be done by moving the pin on the camera cable from pin 4 to pin 3.
+</table>
+
+Note: The Freefly-provided FPV system powers the camera via the 5V-passthrough at the VTX. If the customer wants to install their own VTX that does not provide a 5v-passthrough, it is necessary to power the camera directly from the 5V pin \(Pin 3\). This can be done by moving the pin on the camera cable from pin 4 to pin 3.
 

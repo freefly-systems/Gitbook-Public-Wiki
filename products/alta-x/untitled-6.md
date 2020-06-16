@@ -54,7 +54,9 @@
       <td style="text-align:left">CONFIGURE as necessary</td>
     </tr>
   </tbody>
-</table>To set up ALTA X for flight, remove it from the case, and remove the prop straps. 
+</table>
+
+To set up ALTA X for flight, remove it from the case, and remove the prop straps. 
 
 Unfold the booms by placing one hand on a boom and one hand on the airframe and then unfolding the boom.  The boom linkage system will unfold all booms at once.  Once unfolded, be sure to latch each side of the locking ring.  These latches are redundant and ensure that the booms stay in the open flight position during flight. 
 
@@ -180,7 +182,9 @@ For information on installing isolator cartridges and setting up payload mountin
       <td style="text-align:left">AS REQUIRED</td>
     </tr>
   </tbody>
-</table>Check that the payload is secure by checking that the Toad In The Hole quick release lever is fully clamped and closed and that the payload does not slip. Check that all isolator cartridges are locked in place, especially if they have been recently replaced.
+</table>
+
+Check that the payload is secure by checking that the Toad In The Hole quick release lever is fully clamped and closed and that the payload does not slip. Check that all isolator cartridges are locked in place, especially if they have been recently replaced.
 
 The blades should be checked for damage, including nicks and scrapes. If a propeller blade has been nicked enough that it catches a fingernail, it should be replaced. Blade bolts should be tight and blades should show little slop. There should be no slop between the propeller hub and the motor.
 

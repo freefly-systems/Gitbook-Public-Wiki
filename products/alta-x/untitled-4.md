@@ -122,7 +122,9 @@ Before performing any part replacement, ensure that ATLA X has been unplugged fr
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### \*\*\*\*
+</table>
+
+### \*\*\*\*
 
 ### **Replacing Propeller Sets**
 
@@ -170,7 +172,9 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### **Opening Chassis**
+</table>
+
+### **Opening Chassis**
 
 <table>
   <thead>
@@ -232,7 +236,9 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       style="text-align:left"></td>
     </tr>
   </tbody>
-</table>![](../../.gitbook/assets/altax-screw-sizes-powerpoint-2020-05-20-11.27.39.png)
+</table>
+
+![](../../.gitbook/assets/altax-screw-sizes-powerpoint-2020-05-20-11.27.39.png)
 
 ### Replacing Booms
 
@@ -327,7 +333,9 @@ Autopilot and system component firmware is updated via the USB expansion port on
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>{% hint style="info" %}
+</table>
+
+{% hint style="info" %}
 For troubleshooting, you can view details of the bootloading process by connecting to the GPS2 UART on the expansion connector with a USB to UART adapter and a cable using the dronecode/PX4 UART standard pinout. The UART settings are 57600 baud, 8-N-1.
 {% endhint %}
 

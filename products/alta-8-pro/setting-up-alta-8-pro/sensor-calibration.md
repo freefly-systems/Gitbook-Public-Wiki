@@ -22,7 +22,9 @@ ALTA Pro features a highly sensitive 3-axis magnetometer, gyroscope, and acceler
     </tr>
   </thead>
   <tbody></tbody>
-</table>## **To perform sensor calibrations on ALTA Pro:**
+</table>
+
+## **To perform sensor calibrations on ALTA Pro:**
 
 1. Mount a pair of batteries onto ALTA Pro.
 2. Plug in the batteries to power up the aircraft.

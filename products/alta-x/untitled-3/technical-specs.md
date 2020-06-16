@@ -53,7 +53,9 @@
       </td>
     </tr>
   </tbody>
-</table>Battery Tray Dimensions
+</table>
+
+Battery Tray Dimensions
 
 ![Minimum Battery Tray footprint](../../../.gitbook/assets/alta-x-battery-footprints-google-slides-google-chrome-2019-12-17-15.57.56.png)
 

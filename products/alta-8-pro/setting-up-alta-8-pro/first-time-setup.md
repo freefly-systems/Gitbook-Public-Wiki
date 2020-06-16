@@ -315,7 +315,9 @@ A number of properties and components can be adjusted or added to the FPV On Scr
       <td style="text-align:left">Increased and decreases the brightness of the sky</td>
     </tr>
   </tbody>
-</table>### **Text Components**
+</table>
+
+### **Text Components**
 
 The following components are displayed as text items, and can be configured to display as big or small letters, or no letters, effectively turning off the display.  
 
@@ -395,6 +397,8 @@ The following components can be turned on or off. These components do not have a
       </td>
     </tr>
   </tbody>
-</table>  
+</table>
+
+  
 
 

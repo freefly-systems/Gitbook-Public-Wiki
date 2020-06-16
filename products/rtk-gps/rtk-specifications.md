@@ -131,7 +131,9 @@ Peripheral CANbus for future expansion.
       <td style="text-align:left">GND</td>
     </tr>
   </tbody>
-</table>## GPS Antenna Compatibility
+</table>
+
+## GPS Antenna Compatibility
 
 The following antennas have been tested with the Freefly RTK GPS module:
 

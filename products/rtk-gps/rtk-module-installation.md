@@ -110,7 +110,9 @@ The Rover module replaces the existing GPS module. Follow the instructions below
       </td>
     </tr>
   </tbody>
-</table>## Alta X Installation - Configuration Changes
+</table>
+
+## Alta X Installation - Configuration Changes
 
 After completing the mechanical installation, you will have to configure the autopilot.
 
@@ -210,4 +212,6 @@ Note: You must be running Alta SW 1.3 or above for RTK GPS operation
     </tr>
   </tbody>
 </table>
+
+
 

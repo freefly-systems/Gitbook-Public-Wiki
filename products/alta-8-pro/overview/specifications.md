@@ -91,6 +91,8 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
   </tbody>
 </table>
 
+
+
 ![ALTA 8 Pro Dimensions](https://lh3.googleusercontent.com/5zurrf7aqCYX62nm_itrqjRrc90UywCtNC3LPNUfhNu4s-7a5b4X14bWlNWuAu3c34Clz-E4NXZzjRE5zdCUhq9nLL_cY7X-YqIZbqu7ApZZokzsWYwqhM16RbmhF9r0WUxHS_sc)
 
 ![](https://lh4.googleusercontent.com/LJX_ub3-L18TOKBuZStwOXuBHQ5bc14eGuLcdn5D741SC_5_k9tTftHA4tCtCuEIYpy2BqceiIsA9kDyEmAYFM339-vs1vMC4fiZbASwFABP_3ehtyCXdkZjsOMi1GNJ-O-o1fnK)
@@ -221,7 +223,9 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
       <td style="text-align:left">25Hz</td>
     </tr>
   </tbody>
-</table>## **Lighting and Indication**
+</table>
+
+## **Lighting and Indication**
 
 | Item | Spec |
 | :--- | :--- |
@@ -290,7 +294,9 @@ ALTA Pro can accommodate a variety of Lithium Polymer \(LiPo\) flight battery pa
       <td style="text-align:left">Boom 3 - ALTA Pro 8</td>
     </tr>
   </tbody>
-</table>## Expansion Port Pin-outs
+</table>
+
+## Expansion Port Pin-outs
 
 ![Expansion Port Layout](../../../.gitbook/assets/alta_pro_expansionport.png)
 
