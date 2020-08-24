@@ -36,6 +36,8 @@ Inspect the following items. Replace if worn.
 
 * Propeller blades - Chips, cracks, or deep scratches
 * ActiveBlade bumpers   - Broken or crushed
+* Frame Bumpers - Broken or crushed
+* Pan Isolator Rings - Tearing or gummed up to the post
 
 #### Inspect Boom Ring Latch Tightness
 
@@ -140,8 +142,6 @@ Before performing any part replacement, ensure that ATLA X has been unplugged fr
 Props are supplied as a weight matched and balanced pair. Only fit props in the factory supplied pair.
 {% endhint %}
 
-\*\*\*\*
-
 ### **Replacing ActiveBlades**
 
 <table>
@@ -169,6 +169,120 @@ Props are supplied as a weight matched and balanced pair. Only fit props in the 
       <td style="text-align:left">2.</td>
       <td style="text-align:left">Fit new assembly and secure with (x4) M3x10 bolts. Loctite 243 or equivalent
         must be used to secure these fasteners.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+### **Replacing Pan Isolator Rings**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1.</td>
+      <td style="text-align:left">Remove the Vibration Isolator assembly from the aircraft by removing the
+        (4x) M4 x 14 Combo bolt.</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/untitled-1_-66.67-rgb_gpu-preview-2020-08-03-13.58.18.png"
+          alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2.</td>
+      <td style="text-align:left">Using a 12mm wrench and an M2.5 driver to remove the Pan Isolation post.</td>
+      <td
+      style="text-align:left">
+        <img src="../../.gitbook/assets/untitled-1_-50-rgb_gpu-preview-2020-08-03-14.00.17.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3.</td>
+      <td style="text-align:left">Replace the Pan Isolator Rings by pushing the old rings out of the mounts
+        and inserting the new ring. Make sure it is fully captured by the mount.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4.</td>
+      <td style="text-align:left">Insert the post back through the Pan Isolator Ring and secure it using
+        Loctite 222.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5.</td>
+      <td style="text-align:left">Repeat this process with all Pan Isolator Rings that need to be replaced.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6.</td>
+      <td style="text-align:left">Once you are done replacing Pan Isolator Rings, mount the Vibration Isolation
+        assembly back to the aircraft using Loctite 243.</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+### **Replacing Frame Bumpers**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1.</td>
+      <td style="text-align:left">Remove the vibration isolator assembly from the aircraft by removing the
+        (4x) M4 x 14 Combo bolt.</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/untitled-1_-66.67-rgb_gpu-preview-2020-08-03-13.58.18.png"
+          alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2.</td>
+      <td style="text-align:left">Remove the bumpers by pulling on their heads until they release from the
+        Vibration Isolation assembly.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3.</td>
+      <td style="text-align:left">To replace, insert the tail of the new bumper into the hole and pull it
+        into place until the shoulder is fully seated. A circular motion may help
+        with seating.</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4.</td>
+      <td style="text-align:left">Repeat this process with all Frame Bumpers that need to be replaced.</td>
+      <td
+      style="text-align:left">
+        <img src="../../.gitbook/assets/untitled-1_-100-rgb_gpu-preview-2020-08-03-14.06.53.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5.</td>
+      <td style="text-align:left">Once you are done replacing Frame Bumpers, mount the Vibration Isolation
+        assembly back to the aircraft using Loctite 243.</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
