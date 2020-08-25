@@ -446,6 +446,13 @@ Autopilot and system component firmware is updated via the USB expansion port on
         display red and green directional lights on the motors.</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Update ALTA X to use the latest parameter defaults using ALTA QGC. Parameter
+        files are available here at <a href="https://freeflysystems.com/support/alta-x-support">https://freeflysystems.com/support/alta-x-support</a>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
