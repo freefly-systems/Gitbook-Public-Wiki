@@ -6,6 +6,7 @@ Thanks to its short flange focal distance, E-mount can be readily adapted to alm
 
 | Lens | Adapter | Features | Sample Video |
 | :--- | :---: | :---: | :---: |
+| Laowa 12mm f/2.8 Zero-D |  | Wide Angle |  |
 | Irix Cine 150mm T3.0 Macro | - | 1:1 Macro |  |
 | Canon FD 50mm f/1.4 | FD to E-mount | Low Cost |  |
 

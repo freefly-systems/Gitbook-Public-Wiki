@@ -20,6 +20,10 @@ No, an external HDMI monitor capable of receiving a 1080p30 signal is required t
 
 Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for high-speed capture. Embedded LCDs also tend to be lower-resolution and/or brightness than readily available on-camera monitors.
 
+## What is the native recording format? Export format?
+
+Clips are recorded internally in a native file format optimized for speed. This format is compressed Bayer RAW with a typical compression ratio of 5:1 to 6:1. These files can't \(yet\) be opened directly by other editing tools. WaveViewer is the PC software used to view native Wave clips, trim them, apply basic image adjustments, and export them to other formats. Export formats include Cineform, H.264, and PNG/JPEG sequences.
+
 ## Can the SSD be replaced or upgraded?
 
 Yes. The internal SSD is a standard M.2 NVMe SSD that can be replaced or upgraded. Only a small number of SSDs have been tested to meet the write speed requirements of Wave right now. But by using a standard interface, the camera can be upgraded as drives get bigger, faster, and cheaper. Details on the upgrade process will be posted at a later date.
