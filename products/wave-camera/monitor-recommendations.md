@@ -15,9 +15,14 @@ An external HDMI monitor capable of receiving a 1080p30 signal is required to vi
       <td style="text-align:left">Atomos Shinobi</td>
       <td style="text-align:left">5&quot;</td>
       <td style="text-align:left">
-        <p>High Brightness</p>
+        <p>Daylight Visible (1000nit)</p>
         <p>Histogram, Waveforms, Focus Assist</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">SmallHD Focus 5</td>
+      <td style="text-align:left">5&quot;</td>
+      <td style="text-align:left">Histogram, Waveforms, Focus Assist</td>
     </tr>
   </tbody>
 </table>
