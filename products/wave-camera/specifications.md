@@ -125,7 +125,7 @@
     </tr>
     <tr>
       <td style="text-align:center"></td>
-      <td style="text-align:center">2048 x 1088, 1462fps, 5.5:1</td>
+      <td style="text-align:center">2048 x 1088, 1461fps, 5.5:1</td>
       <td style="text-align:center">0.74GB/s (5.92Gb/s)</td>
     </tr>
     <tr>
@@ -140,12 +140,12 @@
     </tr>
     <tr>
       <td style="text-align:center"></td>
-      <td style="text-align:center">2048 x 1088, 1462fps, 1TB</td>
+      <td style="text-align:center">2048 x 1088, 1461fps, 1TB</td>
       <td style="text-align:center">23min</td>
     </tr>
     <tr>
       <td style="text-align:center"></td>
-      <td style="text-align:center">2048 x 188, 1462fps, 2TB</td>
+      <td style="text-align:center">2048 x 188, 1461fps, 2TB</td>
       <td style="text-align:center">45min</td>
     </tr>
     <tr>
