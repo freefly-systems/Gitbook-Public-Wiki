@@ -18,7 +18,7 @@ Because of its short flange focal distance, E-mount can be readily adapted to al
 
 No, an external HDMI monitor capable of receiving a 1080p30 signal is required to view the preview image and interact with camera menus. On-camera monitors typically also have useful tools such as histograms, waveforms, and focus assist. See [Monitor Recommendations](monitor-recommendations.md) for a list of some good monitor options for Wave.
 
-Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for high-speed capture. Embedded LCDs also tend to be lower-resolution and/or brightness than readily available on-camera monitors.
+Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for high-speed capture. Embedded LCDs also tend to be lower resolution and/or brightness than readily available on-camera monitors.
 
 ## What are the key image sensor specs?
 
