@@ -22,7 +22,7 @@ Foregoing an on-board LCD allows the entire back surface of the camera to be use
 
 ## What are the key image sensor specs?
 
-The Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to 1s/66000.
+Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to 1s/66000.
 
 This sensor is first and foremost about speed: it produces pixel data at up to 37.75Gb/s. It is not designed as an HDR sensor or a low-light sensor, although HDR modes that extend the dynamic range by 2-3 stops at lower frame rates may be added. Review the sample footage provided to make sure it will work for your application.
 
