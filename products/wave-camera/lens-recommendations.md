@@ -2,7 +2,7 @@
 
 Wave uses a passive, locking E-mount. **There is no electrical connection to the lens, so lenses with electronic focus or iris control are not supported.** Likewise, there is no autofocus. Wave is intended for use with manual lenses that cover a S35 sensor. Faster lenses \(with lower wide-open f-number or T-stop\) are preferable for shooting at high frame rates, where light is at a premium.
 
-Thanks to its short flange focal distance, E-mount can be readily adapted to almost any other mount. The stock E-mount can be removed and other mount options may be added in the future. RED DSMC mounts are also supported with an optional spacer. Some good lens options for Wave are listed below with sample videos shot on Wave, if available.
+Because of its short flange focal distance, E-mount can be readily adapted to almost any other mount. The stock E-mount can be removed and other mount options may be added in the future. RED DSMC mounts are also supported with an optional spacer. Some good lens options for Wave are listed below with sample videos shot on Wave, if available.
 
 | Lens | Adapter | Features | Sample Video |
 | :--- | :---: | :---: | :---: |
