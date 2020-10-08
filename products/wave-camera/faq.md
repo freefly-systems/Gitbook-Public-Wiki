@@ -6,7 +6,7 @@ The maximum frame rate in 4K \(17:9\) is **422fps** and in 2K \(17:9\) is **1461
 
 ## What does "continuous recording" mean?
 
-Wave records continuously to its internal SSD at all frame rates. This means it operates like a normal video camera: press the Record Button once to start recording and again to stop. The clip is immediately saved in SSD flash memory. There is no RAM buffer or trigger setup required. All recording is non-volatile \(power-down safe\).
+Wave records continuously to its internal SSD at all frame rates. This means it operates like a normal video camera: press the Record Button once to start recording and again to stop. The clip is immediately saved in SSD flash memory. There is no RAM buffer or trigger setup required, and the length of clip is limited only by the SSD capacity. All recording is non-volatile \(power-down safe\).
 
 ## What types of lenses are supported?
 
