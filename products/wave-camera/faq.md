@@ -38,6 +38,10 @@ For now, yes. The WaveViewer PC software used to view and export Wave clips runs
 
 Not at this time, but one is planned. \(The camera includes WiFi and Bluetooth.\)
 
+## Can it run on external power? External batteries?
+
+Yes, the DC Input accepts 12-26V from an external power supply \(included\) or battery, and draws a maximum of 24W to both run the camera and recharge the internal battery. This can be supplied by an external V-Lock battery for longer-duration mobile operation. Note that although the camera will operate at 12V, fully charging the internal battery requires at least 14V at the DC Input.
+
 ## Can the SSD be replaced or upgraded?
 
 Yes. The internal SSD is a standard M.2 NVMe SSD that can be replaced or upgraded. Only a small number of SSDs have been tested to meet the write speed requirements of Wave right now. But by using a standard interface, the camera can be upgraded as drives get bigger, faster, and cheaper. Details on the upgrade process will be posted at a later date.
