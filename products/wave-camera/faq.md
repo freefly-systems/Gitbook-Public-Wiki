@@ -16,15 +16,15 @@ Because of its short flange focal distance, E-mount can be readily adapted to al
 
 ## Does it have an on-board LCD?
 
-No, an external HDMI monitor capable of receiving a 1080p30 signal is required to view the preview image and interact with camera menus. On-camera monitors typically also have useful tools such as histograms, waveforms, and focus assist. See [Monitor Recommendations](monitor-recommendations.md) for a list of some good monitor options for Wave.
+No, an external monitor capable of receiving a 1080p30 HDMI signal is required to view the preview image and interact with camera menus. On-camera external monitors typically also have useful tools such as histograms, waveforms, and focus assist. See [Monitor Recommendations](monitor-recommendations.md) for a list of some good monitor options for Wave.
 
-Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for high-speed capture. Embedded LCDs also tend to be lower resolution and/or brightness than readily available on-camera monitors.
+Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for continuous high-speed capture. Embedded LCDs also tend to be lower resolution and/or brightness than readily-available on-camera monitors.
 
 ## What are the key image sensor specs?
 
 Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to 1s/66000.
 
-This sensor is first and foremost about speed: it produces pixel data at up to 37.75Gb/s. It is not designed as an HDR sensor or a low-light sensor, although HDR modes that extend the dynamic range by 2-3 stops at lower frame rates may be added. Review the sample footage provided to make sure it will work for your application.
+This sensor is first and foremost about speed: it produces pixel data at up to 37.75Gb/s. It is not designed as an HDR sensor or a low-light sensor, although HDR modes that extend the dynamic range by 2-3 stops at lower frame rates may be added. Review the sample footage available to make sure it will work for your application.
 
 ## What is the native recording format? Export format?
 
