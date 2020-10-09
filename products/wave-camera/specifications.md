@@ -109,7 +109,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Resolutions / Frame Rates</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">-</td>
       <td style="text-align:right">See <a href="maximum-frame-rates.md">Maximum Frame Rates</a>
       </td>
     </tr>
@@ -145,7 +145,7 @@
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:center">2048 x 188, 1461fps, 2TB</td>
+      <td style="text-align:center">2048 x 1088, 1461fps, 2TB</td>
       <td style="text-align:right">45min</td>
     </tr>
     <tr>
