@@ -1,6 +1,6 @@
 # Getting Started
 
-There are a lot of updates with Blackjack. Wether you are a seasoned MoōVI operator, or just getting started, make sure to read / watch the material to ensure a happy start! We’ve included bunch of videos and tried to keep things quick.
+There are a lot of updates with Blackjack. Wether you are a seasoned MōVI operator, or just getting started, make sure to read / watch the material to ensure a happy start! We’ve included bunch of videos and tried to keep things quick.
 
 ## Software Versions
 

@@ -93,6 +93,7 @@
   * [Troubleshooting Tree](products/m-vi-pro-series/troubleshooting-tree.md)
   * [MōVI Carbon](products/m-vi-pro-series/m-vi-carbon/README.md)
     * [MōVI Carbon Pro Tips](products/m-vi-pro-series/m-vi-carbon/m-vi-carbon-pro-tips.md)
+  * [Software Release Notes](products/m-vi-pro-series/software-release-notes.md)
   * [Blackjack](products/m-vi-pro-series/blackjack/README.md)
     * [Getting Started](products/m-vi-pro-series/blackjack/getting-started.md)
     * [What's New](products/m-vi-pro-series/blackjack/whats-new.md)

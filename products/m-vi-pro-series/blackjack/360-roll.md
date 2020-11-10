@@ -20,9 +20,7 @@ There are many ways to use 360 °Roll and its features, depending on your crew s
   * Gamepad
   * Pilot
   * API
-  * App \(planned for future\)
-
-## Method: Barrel Roll
+  * iOS/Android Apps currently don't have a feature to send continous roll command
 
 
 
