@@ -148,7 +148,6 @@
   * [Camera Components](products/wave-camera/camera-components.md)
   * [Specifications](products/wave-camera/specifications.md)
   * [Maximum Frame Rates](products/wave-camera/maximum-frame-rates.md)
-  * [FAQ](products/wave-camera/faq.md)
   * [Lens Recommendations](products/wave-camera/lens-recommendations.md)
   * [Monitor Recommendations](products/wave-camera/monitor-recommendations.md)
 * [Freefly Technical Standards](products/freefly-techincal-standards/README.md)
