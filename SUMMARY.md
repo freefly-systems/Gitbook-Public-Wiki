@@ -149,6 +149,7 @@
   * [Maximum Frame Rates](products/wave-camera/maximum-frame-rates.md)
   * [Lens Recommendations](products/wave-camera/lens-recommendations.md)
   * [Monitor Recommendations](products/wave-camera/monitor-recommendations.md)
+  * [Connector Pinouts](products/wave-camera/connector-pinouts.md)
 * [Freefly Technical Standards](products/freefly-techincal-standards/README.md)
   * [Torque Specifications](products/freefly-techincal-standards/torque-specifications.md)
 
