@@ -4,9 +4,10 @@ description: Defeatured CAD to assist with payload integration.
 
 # Technical Drawings and CAD
 
-CAD model of Movi Pro with the Aerial Landing Gear can be found [here](https://www.dropbox.com/s/b5sesy6qc473y1x/Movi%20Pro%20with%20Landing%20Gear%20Shrinkwrap.stp?dl=0)
+  
+​[Movi Pro with Aerial Landing Gear ](https://a360.co/3qihIA2)- Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
 
-CAD model of Movi Pro in underslung configuration can be found [here](https://www.dropbox.com/s/0vei1ainbfclb2u/Movi%20Pro%20Shrinkwrap.stp?dl=0)
+[Movi Pro](https://a360.co/3ocLrZj) - Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
 
 
 
