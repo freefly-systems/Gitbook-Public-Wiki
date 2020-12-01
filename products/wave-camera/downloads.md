@@ -4,5 +4,5 @@
 
 {% file src="../../.gitbook/assets/waveuserguide\_rev1.pdf" caption="Wave User Guide Rev1" %}
 
-
+[Shrinkwrap Model Link](https://a360.co/33uf94j) - Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
 
