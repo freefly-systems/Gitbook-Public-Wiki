@@ -49,7 +49,7 @@
 
 {% file src="../../.gitbook/assets/alta-x-lower-chassis-hole-pattern-guide.pdf" caption="Chassis Lower Mounting Patterns" %}
 
-[STEP file for Chassis Lower](https://www.dropbox.com/s/j8s0gfmu2h45wrt/445-00197ChassisLower-REVF.STEP?dl=0)
+[Shrinkwrap Model Link](https://a360.co/36qlhMQ) - Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
 
 CAD files for Movi Pro can be found in this [section](https://freefly.gitbook.io/freefly-public/products/m-vi-pro-series/technical-drawings-and-cad)
 

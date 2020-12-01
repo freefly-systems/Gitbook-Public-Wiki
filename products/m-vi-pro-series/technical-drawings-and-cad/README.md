@@ -9,5 +9,7 @@ description: Defeatured CAD to assist with payload integration.
 
 [Movi Pro](https://a360.co/3ocLrZj) - Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
 
+[Movi XL](https://a360.co/33wIuLy) - Fusion 360 Web Viewer. \(Downloadable STEP file available here\)
+
 
 
