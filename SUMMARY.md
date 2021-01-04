@@ -145,6 +145,7 @@
   * [Motor Drive FAQ's and Common Problems](products/motor-drives/motor-drive-faqs-and-common-problems.md)
 * [Wave Camera](products/wave-camera/README.md)
   * [Downloads](products/wave-camera/downloads.md)
+  * [FAQ](products/wave-camera/faq.md)
   * [Camera Components](products/wave-camera/camera-components.md)
   * [Specifications](products/wave-camera/specifications.md)
   * [Maximum Frame Rates](products/wave-camera/maximum-frame-rates.md)
