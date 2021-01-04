@@ -20,6 +20,10 @@ No, an external monitor capable of receiving a 1080p30 HDMI signal is required t
 
 Foregoing an on-board LCD allows the entire back surface of the camera to be used for heat sinking, which is important for continuous high-speed capture. Embedded LCDs also tend to be lower resolution and/or brightness than readily-available on-camera monitors.
 
+## Can an external HDMI recorder be used?
+
+The HDMI output is limited to 1080p30 and has minimal image processing, so the use of an external HDMI recorder is limited. There is no RAW output over HDMI available.
+
 ## What are the key image sensor specs?
 
 Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to 1s/66000.
