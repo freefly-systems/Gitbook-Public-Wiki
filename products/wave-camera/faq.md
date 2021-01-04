@@ -2,7 +2,7 @@
 
 ## What resolutions and frame rates are supported?
 
-The maximum frame rate in 4K \(17:9\) is 422fps and in 2K \(17:9\) is 1461fps. 2K uses subsampling, which preserves the crop factor of the image sensor but does not increase its light sensitivity. Other aspect ratios \(from 4:3 to 16:1\) are available with different maximum frame rates up to 9259fps \(2048 x 128\). See [Maximum Frame Rates](https://freeflysystems.com/freefly-public/products/wave-camera/maximum-frame-rates) for more details.
+The maximum frame rate in 4K \(17:9\) is 422fps and in 2K \(17:9\) is 1461fps. 2K uses subsampling, which preserves the crop factor of the image sensor but does not increase its light sensitivity. Other aspect ratios \(from 4:3 to 16:1\) are available with different maximum frame rates up to 9259fps \(2048 x 128\). See [Maximum Frame Rates](https://freefly.gitbook.io/freefly-public/products/wave-camera/maximum-frame-rates) for more details.
 
 ## What does "continuous recording" mean?
 
