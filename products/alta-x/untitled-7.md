@@ -324,6 +324,8 @@ It is recommended to use two people to perform the compass calibration as it req
 Alta X has 4 magnetometers, one in the GPS mast, and 3 internally used as backups. In cases where a payload is mounted that affects the onboard magnetometers more than the external one, QGroundControl will notify the user that magnetometers are inconsistent. Users can calibrate the aircraft with the payload attached to solve. 
 
 If the payload is causing enough corruption that calibrating with it on does not work, contact Freefly support for alternative solutions.
+
+Please note, you will have to **disable wifi** to complete a compass calibration.
 {% endhint %}
 
 ### Sensor Calibration Prep
