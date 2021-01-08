@@ -2,15 +2,22 @@
 
 ## Wave Player \(Windows\)
 
-{% file src="../../.gitbook/assets/waveplayer\_v1\_0\_3.zip" caption="Wave Player v1.0.3 \(Windows\)" %}
+{% file src="../../.gitbook/assets/waveplayer\_v1\_0\_4.zip" caption="Wave Player v1.0.4 \(Windows\)" %}
 
 ### Release Notes
+
+#### v1.0.4 \(8 January, 2020\)
+
+* Improved GPU compatibility.
+* Removed Calibration Mode checkbox, which was for internal use.
 
 #### v1.0.3 \(21 December, 2020\)
 
 * Improved GPU compatibility.
 
 ### Previous Versions
+
+{% file src="../../.gitbook/assets/waveplayer\_v1\_0\_3.zip" caption="Wave Player v1.0.3 \(Windows\)" %}
 
 {% file src="../../.gitbook/assets/waveplayer\_v1\_0\_1 \(2\).zip" caption="Wave Player v1.0.1 \(Windows\)" %}
 
