@@ -77,6 +77,7 @@
     * [Radio Loss of Signal](products/alta-8-pro/emergency-procedures/radio-loss-of-signal.md)
     * [Loss of FPV Signal](products/alta-8-pro/emergency-procedures/loss-of-fpv-signal.md)
   * [Performance](products/alta-8-pro/performance/README.md)
+    * [Environmental](products/alta-8-pro/performance/environmental.md)
     * [Weight / Endurance Performance Data](products/alta-8-pro/performance/weight-endurance-performance-data.md)
     * [Allowable Gross Weight](products/alta-8-pro/performance/allowable-gross-weight.md)
   * [Maintaining ALTA 8 Pro](products/alta-8-pro/maintaining-alta-8-pro/README.md)
