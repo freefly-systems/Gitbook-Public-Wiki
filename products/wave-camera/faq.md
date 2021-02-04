@@ -36,7 +36,7 @@ Clips are recorded internally in a lightly-compressed file format optimized for 
 
 ## Do I need a Windows computer to work with Wave files?
 
-For now, yes. The [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) PC software used to view and export Wave clips runs on Windows 10. Other workflows, including Wave Player Mac software and an Adobe Premiere Pro import plug-in, are planned. Refer to the following System Specifications for details on supported PCs.
+For now, yes. The [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) PC software used to view and export Wave clips runs on Windows 10. \(Wave Player Mac software is in development.\) Refer to the following System Specifications for details on supported PCs.
 
 | System Component | Minimum | Recommended |
 | :--- | :--- | :--- |
@@ -49,6 +49,8 @@ For now, yes. The [Wave Player](https://freefly.gitbook.io/freefly-public/produc
 | USB | USB 3.x \(SS\) | USB 3.x \(SS\) |
 
 Wave Player will not run on Parallels, as there is no support for DX12. It will run on a Boot Camp Windows installation.
+
+See [Laptop Recommendations](https://freefly.gitbook.io/freefly-public/products/wave-camera/laptop-recommendations) for a list of some laptops that have been tested to work with [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads).
 
 ## Is there an app for Wave camera control?
 
