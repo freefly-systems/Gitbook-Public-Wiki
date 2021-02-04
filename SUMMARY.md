@@ -150,6 +150,7 @@
   * [Camera Components](products/wave-camera/camera-components.md)
   * [Specifications](products/wave-camera/specifications.md)
   * [Maximum Frame Rates](products/wave-camera/maximum-frame-rates.md)
+  * [Laptop Recommendations](products/wave-camera/laptop-recommendations.md)
   * [Lens Recommendations](products/wave-camera/lens-recommendations.md)
   * [Monitor Recommendations](products/wave-camera/monitor-recommendations.md)
   * [Connector Pinouts](products/wave-camera/connector-pinouts.md)
