@@ -55,7 +55,7 @@ The camera firmware can be updated over USB using the following procedure:
 
 ## User Guide
 
-{% file src="../../.gitbook/assets/waveuserguide\_rev2 \(2\).pdf" caption="Wave User Guide Rev2" %}
+{% file src="../../.gitbook/assets/waveuserguide\_rev3 \(1\).pdf" caption="Wave User Guide Rev3" %}
 
 ## 3D Model
 

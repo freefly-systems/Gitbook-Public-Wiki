@@ -1,16 +1,22 @@
 # Connector Pinouts
 
-## Movi Pro
+## GPIO Connector
 
-Wave features a 6 pin UART connector that can act as a shutter release with Movi Pro, and in the future will offer full camera control for Movi Pro and via API.  
+The GPIO connector provides two general-purpose inputs \(GPI\) and two general-purpose outputs \(GPO\). The figure below shows the pinout of this connector and the color coding of the Mōvi Pro Wave Remote Control Cable \(Freefly P/N 910-00661\).
 
-The remote control cable is available on the [Freefly Store](https://store.freeflysystems.com/collections/wave/products/movi-pro-wave-remote-control-cable).  You can use this now for remote start/stop on your Movi Pro or you can use it as a donor cable to wire up custom shutter releases for other systems
+![GPIO Connector Pinout and Color Coding](../../.gitbook/assets/image%20%287%29.png)
 
-## Custom Start / Stop Cable
+### Mōvi Pro Wave Remote Control Cable
 
-To make a custom cable use a JST GH 6PIN CONNECTOR GHR-06V-S 1 and follow the pinout in the wiring diagram below.  
+The Mōvi Pro Wave Remote Control Cable \(Freefly P/N 910-00661\) is available on the [Freefly Store](https://store.freeflysystems.com/collections/wave/products/movi-pro-wave-remote-control-cable).  You can use this now for remote start/stop on your Mōvi Pro. It will also enable full camera control via UART in a future firmware update. You can also use this as a donor cable to wire up a custom remote start/stop for other systems \(see below\).
 
-For a simple remote trigger you need to short Ground and LANC
+To configure the correct remote start/stop signal on the Mōvi Controller, the Camera Type should be set to ARRI RS in the FIZ Config menu.
 
-{% file src="../../.gitbook/assets/850-00469\_cable\_assembly\_movi\_pro\_wave\_uart\_rev04.pdf" %}
+### Custom Remote Start/Stop
+
+A custom remote start/stop cable can be created by following the wiring diagram below. The GPIO are optically isolated, so the host must supply a voltage \(3.3V or 5V is okay\) to power its side of the optocoupler. The current drawn will be &lt;20mA.
+
+![Wiring of a custom remote start/stop cable.](../../.gitbook/assets/image%20%2826%29.png)
+
+The momentary switch connects the GPI2/RS pin to GND \(0V\). Each single press will toggle the recording state on or off, just like the dedicated Record Button. For wireless remote start/stop, a relay- or transistor-based RC switch can also be used.
 
