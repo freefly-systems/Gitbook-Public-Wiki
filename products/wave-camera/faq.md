@@ -32,7 +32,7 @@ This sensor is first and foremost about speed: it produces pixel data at up to 3
 
 ## What is the native recording format? Export format?
 
-Clips are recorded internally in a lightly-compressed file format optimized for speed. These files can’t \(yet\) be opened directly by other editing tools. [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) is the PC software used to view native Wave clips, trim them, apply basic image adjustments, and export them to other formats. Export formats include CineForm, H.264, and PNG/JPEG sequences.
+Clips are recorded internally in a lightly-compressed file format optimized for speed. These files can’t \(yet\) be opened directly by other editing tools. [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) is the PC software used to view native Wave clips, trim them, apply basic image adjustments, and export them to other formats. Export formats include CineForm \(.MOV\) and PNG/JPEG sequences.
 
 ## Do I need a Windows computer to work with Wave files?
 
