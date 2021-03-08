@@ -26,13 +26,13 @@ The HDMI output is limited to 1080p30 and has minimal image processing, so the u
 
 ## What are the key image sensor specs?
 
-Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to 1s/66000.
+Wave uses a S35 color image sensor with 5.5μm pixels and a native resolution of 4096 x 3072 \(4:3\). The native ISO is 250 and the native dynamic range is 10-11 stops. It utilizes a global electronic shutter with shutter speeds ranging from 1s to \(1/66000\)s.
 
 This sensor is first and foremost about speed: it produces pixel data at up to 37.75Gb/s. It is not designed as an HDR or a low-light sensor. Review the sample footage available to make sure it will work for your application.
 
-## What is the native recording format? Export format?
+## What is the native recording format? Export formats?
 
-Clips are recorded internally in a lightly-compressed file format optimized for speed. These files can’t \(yet\) be opened directly by other editing tools. [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) is the PC software used to view native Wave clips, trim them, apply basic image adjustments, and export them to other formats. Export formats include CineForm \(.MOV\) and PNG/JPEG sequences.
+Clips are recorded internally in a lightly-compressed 10-bit RGB file format optimized for write speed. At present, these files can’t be opened directly by other editing tools. [Wave Player](https://freefly.gitbook.io/freefly-public/products/wave-camera/downloads) is the PC software used to view native Wave clips, trim them, apply basic image adjustments, and export them to other formats. Export formats include CineForm \(.MOV\), H.264 \(.MP4\) and PNG/JPEG sequences.
 
 ## Do I need a Windows computer to work with Wave files?
 
