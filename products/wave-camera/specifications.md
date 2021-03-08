@@ -59,7 +59,7 @@
     <tr>
       <td style="text-align:left">Standard Lens Mount</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:right">E-mount</td>
+      <td style="text-align:right">E-mount Compatible</td>
     </tr>
     <tr>
       <td style="text-align:left">Removable</td>
@@ -85,7 +85,7 @@
     <tr>
       <td style="text-align:left">Media</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:right">Internal SSD</td>
+      <td style="text-align:right">Internal NVMe SSD</td>
     </tr>
     <tr>
       <td style="text-align:left">Media Size</td>
@@ -95,7 +95,7 @@
     <tr>
       <td style="text-align:left">Format</td>
       <td style="text-align:center">-</td>
-      <td style="text-align:right">Compressed Bayer RAW</td>
+      <td style="text-align:right">Compressed RGB</td>
     </tr>
     <tr>
       <td style="text-align:left">Native Bit Depth</td>
@@ -255,6 +255,27 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>--- Wave Player Software ---</b>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:right"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Operating System</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:right">Windows 10</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Export Formats</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:right">
+        <p>CineForm (.MOV)</p>
+        <p>H.264 (.MP4)</p>
+        <p>PNG Sequence</p>
+        <p>JPEG Sequence</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>--- Other Features ---</b>
       </td>
       <td style="text-align:center"></td>
@@ -326,11 +347,6 @@
       <td style="text-align:left">Ingress Protection</td>
       <td style="text-align:center">-</td>
       <td style="text-align:right">IP52</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Maximum Acceleration</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:right">TBC</td>
     </tr>
   </tbody>
 </table>
