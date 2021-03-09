@@ -23,7 +23,7 @@ The following tips can help recover a valid USB SuperSpeed connection:
 
 ## HDMI Preview Quality
 
-Due to hardware constraints, the camera only does a limited amount of decoding and image processing for the HDMI preview. As a result, the HDMI preview image quality is lower than the recorded image quality. When recording at 4K, the HDMI preview quality is closer to 1080p. When recording at 2K, the HDMI preview quality is closer to 540p.
+Due to hardware constraints, the camera only does a limited amount of decoding and image processing for the HDMI preview. As a result, the HDMI preview image quality is lower than the recorded image quality. When recording at 4K, the HDMI preview quality is closer to 1080p. When recording at 2K, the HDMI preview quality is closer to 480p.
 
 This can make focusing in 2K mode with a shallow depth of field more challenging. If the scenario permits, you can set the focus point in 4K mode and then switch to 2K mode. Some additional focus assist tools are planned for future firmware updates.
 
