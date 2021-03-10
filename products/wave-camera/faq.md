@@ -45,7 +45,7 @@ For now, yes. The [Wave Player](https://freefly.gitbook.io/freefly-public/produc
 | Memory | 8GB | 32GB |
 | Graphics | 2GB VRAM | Dedicated, 8GB VRAM |
 | DirectX Support | DX12 | DX12 |
-| Display | 2560 x 1440 | 4K |
+| Display | 1920 x 1080 | 4K |
 | USB | USB 3.x \(SS\) | USB 3.x \(SS\) |
 
 Wave Player will not run on Parallels, as there is no support for DX12. It will run on a Boot Camp Windows installation.
@@ -55,6 +55,10 @@ See [Laptop Recommendations](https://freefly.gitbook.io/freefly-public/products/
 ## Is there an app for Wave camera control?
 
 Not at this time, but the camera hardware supports WiFi and Bluetooth, so one may be developed later.
+
+## Is there an option for circular buffering / post-triggering?
+
+At the moment, no. Wave always records continuously to its internal SSD, so it has only a small RAM buffer used to ride out variable SSD write latency. This would not be enough memory to support a circular buffer / post-triggering workflow.
 
 ## Can Wave run on external power? External batteries?
 

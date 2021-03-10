@@ -1,4 +1,6 @@
 # User Guide
 
-The latest User Guide is available in [Downloads](downloads.md).
+{% file src="../../.gitbook/assets/waveuserguide\_rev4.pdf" caption="Wave User Guide Rev4" %}
+
+
 
